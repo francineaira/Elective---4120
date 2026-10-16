@@ -45,18 +45,15 @@
 <h3>Presentation Design Principles</h3>
 <p><b>Promotional Poster</b></p>
 <p>A promotional poster created by applying presentation design principles to create a clear, organized, and visually engaging output.</p>
-<p>⋆ Layout &nbsp;&nbsp; 𐙚 Hierarchy &nbsp;&nbsp; ⊹ Balance</p>
 </td>
 <td width="33%" align="center">
 <h3>Color Palette &amp; Typography</h3>
 <p><b>Personal Visual Identity</b></p>
 <p>A personal visual identity created through a logo, color palette, typography, tagline, and resume header.</p>
-<p>⋆ Color Palette &nbsp;&nbsp; 𐙚 Typography &nbsp;&nbsp; ⊹ Visual Identity</p>
 </td>
 <td width="33%" align="center">
 <h3>Social Media Infographics &amp; Mini Project Documentation</h3>
 <p>A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.</p>
-<p>⋆ Infographics &nbsp;&nbsp; 𐙚 Technology &nbsp;&nbsp; ⊹ Innovation</p>
 </td>
 </tr>
 </table>
@@ -65,7 +62,7 @@
 
 <table align="center">
 <tr>
-<td bgcolor="#F4C5D7" align="center"><b>MIDTERM</b></td>
+<td bgcolor="#F4C5D7" align="center"><b>MIDTERMS</b></td>
 </tr>
 </table>
 
