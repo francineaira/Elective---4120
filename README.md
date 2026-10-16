@@ -28,7 +28,7 @@
 
 <table align="center">
 <tr>
-<td bgcolor="#F4C5D7" align="center"><b>PRELIMIs</b></td>
+<td bgcolor="#F4C5D7" align="center"><b>PRELIMS</b></td>
 </tr>
 </table>
 
