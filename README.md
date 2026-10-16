@@ -77,8 +77,7 @@
 </tr>
 <tr>
 <td align="center">
-<p><b>My Assigned Tool: Google Drive</b></p>
-<p>For the midterm, we explored the different tools available under Google Workspace. My assigned tool was <b>Google Drive</b>.</p>
+<p>For the midtermS, we explored the different tools available under Google Workspace. My assigned tool was <b>Google Drive</b>.</p>
 <p>Through this activity, I explored how Google Drive can be used to store, organize, access, share, and collaborate on digital files.</p>
 </td>
 </tr>
