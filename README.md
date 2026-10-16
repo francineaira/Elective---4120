@@ -1,4 +1,4 @@
-# Elective 4120 — Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖
+# My Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖
 
 
 <p align="center">
@@ -8,8 +8,6 @@
 <img src="https://img.shields.io/badge/ELECTIVE%204120-AD6182?style=for-the-badge&labelColor=FCD1DE" />
 
 <br>
-
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 <br>
 
