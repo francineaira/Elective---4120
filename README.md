@@ -89,38 +89,40 @@
     </td>
 
   </tr>
-</table>
 
-<br>
-
-<table width="100%">
   <tr>
 
     <td width="33%" align="center">
+
+      <br>
 
       <h3>Presentation Design Principles</h3>
 
       <p><b>Promotional Poster</b></p>
 
       <p>
-        Promotional poster applying presentation design principles
-        to create a clear, organized, and visually engaging output.
+        A promotional poster created by applying presentation design
+        principles to create a clear, organized, and visually engaging output.
       </p>
 
       <p>
         ⋆ Layout &nbsp;&nbsp; 𐙚 Hierarchy &nbsp;&nbsp; ⊹ Balance
       </p>
 
+      <br>
+
     </td>
 
     <td width="33%" align="center">
+
+      <br>
 
       <h3>Color Palette &amp; Typography</h3>
 
       <p><b>Personal Visual Identity</b></p>
 
       <p>
-        Personal visual identity developed through a logo, color palette,
+        A personal visual identity created through a logo, color palette,
         typography, tagline, and resume header.
       </p>
 
@@ -128,20 +130,26 @@
         ⋆ Color Palette &nbsp;&nbsp; 𐙚 Typography &nbsp;&nbsp; ⊹ Visual Identity
       </p>
 
+      <br>
+
     </td>
 
     <td width="33%" align="center">
 
+      <br>
+
       <h3>Social Media Infographics &amp; Mini Project Documentation</h3>
 
       <p>
-        Social media infographic and a technology-based mini project proposal
-        created through digital tools and visual communication.
+        A social media infographic and a technology-based mini project
+        proposal created through digital tools and visual communication.
       </p>
 
       <p>
         ⋆ Infographics &nbsp;&nbsp; 𐙚 Technology &nbsp;&nbsp; ⊹ Innovation
       </p>
+
+      <br>
 
     </td>
 
@@ -165,18 +173,19 @@
 
 <table width="100%">
   <tr>
-    <td bgcolor="#F4C5D7" align="center">
+    <td bgcolor="#FCD1DE" align="center">
+
       <h2>☁️ GOOGLE DRIVE</h2>
+
       <h3>Google Workspace Reporting</h3>
+
     </td>
   </tr>
-</table>
 
-<br>
-
-<table width="100%">
   <tr>
     <td align="center">
+
+      <br>
 
       <p>
         <b>My Assigned Tool: Google Drive</b>
@@ -192,34 +201,34 @@
         to store, organize, access, share, and collaborate on digital files.
       </p>
 
+      <br>
+
+      <table align="center">
+        <tr>
+          <td bgcolor="#FCD1DE" align="center">
+            <b>⋆˚꩜｡ Organization</b>
+          </td>
+
+          <td bgcolor="#F4C5D7" align="center">
+            <b>𐙚 Storage</b>
+          </td>
+
+          <td bgcolor="#FCD1DE" align="center">
+            <b>⊹ Sharing</b>
+          </td>
+
+          <td bgcolor="#F4C5D7" align="center">
+            <b>꩜ Collaboration</b>
+          </td>
+
+          <td bgcolor="#FCD1DE" align="center">
+            <b>𐙚 Accessibility</b>
+          </td>
+        </tr>
+      </table>
+
+      <br>
+
     </td>
-  </tr>
-</table>
-
-<br>
-
-<table align="center">
-  <tr>
-
-    <td bgcolor="#FCD1DE" align="center">
-      <b>⋆˚꩜｡ Organization</b>
-    </td>
-
-    <td bgcolor="#F4C5D7" align="center">
-      <b>𐙚 Storage</b>
-    </td>
-
-    <td bgcolor="#FCD1DE" align="center">
-      <b>⊹ Sharing</b>
-    </td>
-
-    <td bgcolor="#F4C5D7" align="center">
-      <b>꩜ Collaboration</b>
-    </td>
-
-    <td bgcolor="#FCD1DE" align="center">
-      <b>𐙚 Accessibility</b>
-    </td>
-
   </tr>
 </table>
