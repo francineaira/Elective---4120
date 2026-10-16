@@ -1,199 +1,239 @@
-<h1 align="center">
-Elective 4120 - Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖
-</h1>
+# Elective 4120 - Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖
 
 <p align="center">
 ⋆˚꩜｡ ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 </p>
 
-<table>
-<tr>
-<td>
+---
 
-<h2>𐙚 Hi! My name is Francine Aira A. Sanchez</h2>
+## 𐙚 Welcome
 
-I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.
-
-<br><br>
-
-Welcome to my <b>Elective 4120 Digital Portfolio</b>, where I showcase my activities, creative outputs, and learning experiences throughout the course.
-
-<br><br>
-
-⋆˚꩜｡ <b>Creative</b> &nbsp;&nbsp;
-𐙚 <b>Digital</b> &nbsp;&nbsp;
-⊹ <b>Learning</b>
-
-</td>
-</tr>
-</table>
+<svg width="100%" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="890" height="220" rx="30" fill="#F4C5D7" stroke="#AD6182" stroke-width="3"/>
+  
+  <text x="45" y="55" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#000000">
+    𐙚 Hi! My name is Francine Aira A. Sanchez
+  </text>
+  
+  <text x="45" y="100" font-family="Arial, sans-serif" font-size="19" fill="#000000">
+    I am a 4th Year Nursing Student at Ateneo de Davao University (AdDU).
+  </text>
+  
+  <text x="45" y="140" font-family="Arial, sans-serif" font-size="17" fill="#000000">
+    Welcome to my Elective 4120 Digital Portfolio, where I showcase
+  </text>
+  
+  <text x="45" y="168" font-family="Arial, sans-serif" font-size="17" fill="#000000">
+    my activities, creative outputs, and learning experiences.
+  </text>
+  
+  <text x="45" y="205" font-family="Arial, sans-serif" font-size="16" fill="#AD6182">
+    ⋆˚꩜｡ Creative     𐙚 Digital     ⊹ Learning
+  </text>
+</svg>
 
 ---
 
-<h2 align="center">🌸 PRELIM ⋆. 𐙚 ˚</h2>
+# 🌸 PRELIM ⋆. 𐙚 ˚
 
 <p align="center">
 <b>DESIGN · CREATIVITY · VISUAL COMMUNICATION</b>
 </p>
 
-<table>
-<tr>
+<svg width="100%" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect x="5" y="5" width="435" height="290" rx="30" fill="#F4C5D7" stroke="#AD6182" stroke-width="3"/>
+  
+  <text x="35" y="45" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#AD6182">
+    ⋆˚꩜｡ Activity 01
+  </text>
+  
+  <text x="35" y="85" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000">
+    🎨 Presentation Design
+  </text>
+  
+  <text x="35" y="112" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000">
+    Principles
+  </text>
+  
+  <text x="35" y="150" font-family="Arial, sans-serif" font-size="16" fill="#000000">
+    Promotional Poster
+  </text>
+  
+  <text x="35" y="185" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    ⋆ Layout
+  </text>
+  
+  <text x="35" y="210" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    𐙚 Hierarchy
+  </text>
+  
+  <text x="35" y="235" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    ⊹ Balance
+  </text>
+  
+  <text x="35" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#AD6182">
+    VIEW ACTIVITY →
+  </text>
 
-<td>
 
-<h3>⋆˚꩜｡ Activity 01</h3>
+  <rect x="460" y="5" width="435" height="290" rx="30" fill="#FCD1DE" stroke="#AD6182" stroke-width="3"/>
+  
+  <text x="490" y="45" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#AD6182">
+    ⋆. 𐙚 ˚ Activity 02
+  </text>
+  
+  <text x="490" y="85" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000">
+    ✦ Color Palette &
+  </text>
+  
+  <text x="490" y="112" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000">
+    Typography
+  </text>
+  
+  <text x="490" y="150" font-family="Arial, sans-serif" font-size="16" fill="#000000">
+    Personal Visual Identity
+  </text>
+  
+  <text x="490" y="185" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    ⋆ Color Palette
+  </text>
+  
+  <text x="490" y="210" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    𐙚 Typography
+  </text>
+  
+  <text x="490" y="235" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    ⊹ Visual Identity
+  </text>
+  
+  <text x="490" y="270" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#AD6182">
+    VIEW ACTIVITY →
+  </text>
 
-<h2>🎨 Presentation Design Principles</h2>
-
-<b>Promotional Poster</b>
-
-<br><br>
-
-For this activity, I designed a promotional poster while applying different presentation design principles to create a clear, organized, and visually engaging output.
-
-<br><br>
-
-⋆ <b>Layout</b><br>
-𐙚 <b>Hierarchy</b><br>
-⊹ <b>Balance</b>
-
-<br><br>
-
-<a href="#">VIEW ACTIVITY →</a>
-
-</td>
-
-<td>
-
-<h3>⋆. 𐙚 ˚ Activity 02</h3>
-
-<h2>✦ Color Palette & Typography</h2>
-
-<b>Personal Visual Identity</b>
-
-<br><br>
-
-For this activity, I created a personal visual identity through a logo, color palette, typography, tagline, and resume header.
-
-<br><br>
-
-⋆ <b>Color Palette</b><br>
-𐙚 <b>Typography</b><br>
-⊹ <b>Visual Identity</b>
-
-<br><br>
-
-<a href="#">VIEW ACTIVITY →</a>
-
-</td>
-
-</tr>
-</table>
+</svg>
 
 <br>
 
-<table>
-<tr>
-<td>
-
-<h3>𐙚 Activity 03</h3>
-
-<h2>📱 Social Media Infographics & Mini Project Documentation</h2>
-
-This activity combined visual communication and technology through the creation of a <b>social media infographic</b> and a <b>technology-based mini project proposal</b>.
-
-<br><br>
-
-⋆ <b>Infographics</b> &nbsp;&nbsp;
-𐙚 <b>Technology</b> &nbsp;&nbsp;
-⊹ <b>Innovation</b> &nbsp;&nbsp;
-꩜ <b>Problem Solving</b>
-
-<br><br>
-
-<a href="#">VIEW ACTIVITY →</a>
-
-</td>
-</tr>
-</table>
+<svg width="100%" viewBox="0 0 900 270" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="890" height="260" rx="30" fill="#F4C5D7" stroke="#AD6182" stroke-width="3"/>
+  
+  <text x="40" y="50" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#AD6182">
+    𐙚 Activity 03
+  </text>
+  
+  <text x="40" y="90" font-family="Arial, sans-serif" font-size="23" font-weight="bold" fill="#000000">
+    📱 Social Media Infographics &amp; Mini Project Documentation
+  </text>
+  
+  <text x="40" y="130" font-family="Arial, sans-serif" font-size="16" fill="#000000">
+    This activity combined visual communication and technology through
+  </text>
+  
+  <text x="40" y="155" font-family="Arial, sans-serif" font-size="16" fill="#000000">
+    the creation of a social media infographic and a technology-based
+  </text>
+  
+  <text x="40" y="180" font-family="Arial, sans-serif" font-size="16" fill="#000000">
+    mini project proposal.
+  </text>
+  
+  <text x="40" y="220" font-family="Arial, sans-serif" font-size="15" fill="#AD6182">
+    ⋆ Infographics    𐙚 Technology    ⊹ Innovation    ꩜ Problem Solving
+  </text>
+  
+  <text x="40" y="245" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#AD6182">
+    VIEW ACTIVITY →
+  </text>
+</svg>
 
 ---
 
-<h2 align="center">💗 MIDTERM ⊹ ࣪ ˖</h2>
+# 💗 MIDTERM ⊹ ࣪ ˖
 
 <p align="center">
 <b>GOOGLE WORKSPACE REPORTING</b>
 </p>
 
-<table>
-<tr>
+<svg width="100%" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
 
-<td>
+  <rect x="5" y="5" width="300" height="350" rx="30" fill="#FCD1DE" stroke="#AD6182" stroke-width="3"/>
+  
+  <text x="155" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#000000">
+    📁
+  </text>
+  
+  <text x="155" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#000000">
+    GOOGLE DRIVE
+  </text>
+  
+  <text x="155" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#AD6182">
+    ⋆˚꩜｡ My Assigned Tool
+  </text>
+  
+  <text x="50" y="205" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    𐙚 Cloud Storage
+  </text>
+  
+  <text x="50" y="235" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    ⋆ File Organization
+  </text>
+  
+  <text x="50" y="265" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    ⊹ File Sharing
+  </text>
+  
+  <text x="50" y="295" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    ꩜ Collaboration
+  </text>
 
-<h2 align="center">📁 Google Drive</h2>
+
+  <rect x="325" y="5" width="570" height="350" rx="30" fill="#F4C5D7" stroke="#AD6182" stroke-width="3"/>
+  
+  <text x="355" y="50" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#AD6182">
+    𐙚 Google Workspace Reporting
+  </text>
+  
+  <text x="355" y="85" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#000000">
+    My Assigned Tool: Google Drive
+  </text>
+  
+  <text x="355" y="125" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    For the midterm, we explored the different tools available
+  </text>
+  
+  <text x="355" y="150" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    under Google Workspace. My assigned tool was Google Drive.
+  </text>
+  
+  <text x="355" y="190" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    Through this activity, I explored how Google Drive can be
+  </text>
+  
+  <text x="355" y="215" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    used to store, organize, access, share, and collaborate
+  </text>
+  
+  <text x="355" y="240" font-family="Arial, sans-serif" font-size="15" fill="#000000">
+    on digital files.
+  </text>
+  
+  <text x="355" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#AD6182">
+    ⋆˚꩜｡ What I Explored
+  </text>
+  
+  <text x="355" y="310" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    ⋆ Organization   𐙚 Storage   ⊹ Sharing   ꩜ Collaboration
+  </text>
+  
+  <text x="355" y="335" font-family="Arial, sans-serif" font-size="14" fill="#000000">
+    ⋆ Accessibility
+  </text>
+
+</svg>
 
 <p align="center">
-⋆˚꩜｡ <b>My Assigned Tool</b>
-</p>
 
-<br>
-
-𐙚 Cloud Storage
-
-<br>
-⋆ File Organization
-
-<br>
-⊹ File Sharing
-
-<br>
-꩜ Collaboration
-
-</td>
-
-<td>
-
-<h3>𐙚 Google Workspace Reporting</h3>
-
-<h2>My Assigned Tool: Google Drive</h2>
-
-For the midterm, we explored the different tools available under <b>Google Workspace</b>. My assigned tool was <b>Google Drive</b>.
-
-<br><br>
-
-Through this activity, I explored how Google Drive can be used to <b>store, organize, access, share, and collaborate</b> on digital files.
-
-<br><br>
-
-<b>⋆˚꩜｡ What I Explored</b>
-
-<br><br>
-
-⋆ <b>Organization</b> — Managing files and folders
-
-<br>
-𐙚 <b>Storage</b> — Keeping files in the cloud
-
-<br>
-⊹ <b>Sharing</b> — Sharing files with others
-
-<br>
-꩜ <b>Collaboration</b> — Working together on digital files
-
-<br>
-⋆ <b>Accessibility</b> — Accessing files across devices
-
-<br><br>
-
-<a href="#">VIEW GOOGLE DRIVE REPORT →</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
 ⋆˚꩜｡ ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ ⋆. 𐙚 ˚ ⊹ ࣪ ˖
+
 </p>
