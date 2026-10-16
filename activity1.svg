@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390">
-<rect x="4" y="4" width="1092" height="382" rx="28" fill="#FCD1DE" stroke="#E981A4" stroke-width="3"/>
-<text x="550.0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#202124">🌸 ACTIVITY 1</text>
-<text x="550.0" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">Presentation Design Principles</text>
-<text x="550.0" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">Promotional Poster</text>
-<text x="550.0" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">A promotional poster created by applying presentation design principles</text>
-<text x="550.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">to create a clear, organized, and visually engaging output.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<rect x="4" y="4" width="1092" height="322" rx="24" fill="#FCD1DE" stroke="#E981A4" stroke-width="3"/>
+<text x="550" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#202124">🌸 ACTIVITY 1</text>
+<text x="550" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="600" fill="#202124">Presentation Design Principles</text>
+<text x="550" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#202124">Promotional Poster</text>
+<text x="70" y="190" font-family="Arial, sans-serif" font-size="23" fill="#202124" textLength="960" lengthAdjust="spacing">A promotional poster created by applying presentation design principles</text>
+<text x="70" y="228" font-family="Arial, sans-serif" font-size="23" fill="#202124" textLength="960" lengthAdjust="spacing">to create a clear, organized, and visually engaging output.</text>
 </svg>

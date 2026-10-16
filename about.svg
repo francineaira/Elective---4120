@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="310" viewBox="0 0 1400 310">
-<rect x="4" y="4" width="1392" height="302" rx="28" fill="#FCD1DE" stroke="#E981A4" stroke-width="3"/>
-<text x="700.0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#202124">✨ Welcome to my digital portfolio! ✨</text>
-<text x="700.0" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">𐙚 Hi! My name is Francine Aira A. Sanchez.</text>
-<text x="700.0" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">I am a 4th Year Nursing Student at Ateneo de Davao University (AdDU).</text>
-<text x="700.0" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">Welcome to my Elective 4120 Digital Portfolio, where I showcase my activities,</text>
-<text x="700.0" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">creative outputs, and learning experiences throughout the course.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
+<rect x="4" y="4" width="1392" height="292" rx="24" fill="#FCD1DE" stroke="#E981A4" stroke-width="3"/>
+<text x="700" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#202124">✨ Welcome to my digital portfolio! ✨</text>
+<text x="700" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">𐙚 Hi! My name is Francine Aira A. Sanchez.</text>
+<text x="700" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#202124">I am a 4th Year Nursing Student at Ateneo de Davao University (AdDU).</text>
+<text x="70" y="182" font-family="Arial, sans-serif" font-size="21" fill="#202124" textLength="1260" lengthAdjust="spacing">Welcome to my Elective 4120 Digital Portfolio, where I showcase my activities, creative outputs,</text>
+<text x="70" y="218" font-family="Arial, sans-serif" font-size="21" fill="#202124" textLength="1260" lengthAdjust="spacing">and learning experiences throughout the course.</text>
 </svg>
