@@ -18,7 +18,7 @@
 <table width="100%">
 <tr>
 <td bgcolor="#FCD1DE">
-<h3>✨ Welcome to my digital portfolio! ✨</h3>
+<h3> Welcome to my digital portfolio! </h3>
 <p>𐙚 Hi! My name is <b>Francine Aira A. Sanchez</b>.</p>
 <p>I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.</p>
 <p>Welcome to my Elective 4120 Digital Portfolio, where I showcase my activities, creative outputs, and learning experiences throughout the course.</p>
