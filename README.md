@@ -1,138 +1,146 @@
-# My Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖
-
+<h1 align="center">
+Elective 4120 - Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖
+</h1>
 
 <p align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/ELECTIVE%204120-AD6182?style=for-the-badge&labelColor=FCD1DE" />
-
-<br>
-
-<br>
-
-**Creative • Digital • Learning**
-
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 </p>
-
----
 
 <table>
 <tr>
-<td bgcolor="#FCD1DE">
+<td bgcolor="#F4C5D7">
 
-## 𐙚 Welcome to My Portfolio
+<b>𐙚 Hi! My name is Francine Aira A. Sanchez</b>
 
-Hello! I am **Francine Aira A. Sanchez**, a 4th Year Nursing Student at **Ateneo de Davao University (AdDU)**.
+<br><br>
 
-Welcome to my **Elective 4120 Digital Portfolio**, where I showcase my activities, creative outputs, and learning experiences throughout the course.
+I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.
 
-<br>
+<br><br>
 
-<p align="center">
+Welcome to my <b>Elective 4120 Digital Portfolio</b>, where I showcase my activities, creative outputs, and learning experiences throughout the course.
 
-⋆. 𐙚 ˚ ⊹ ࣪ ˖
+<br><br>
 
-</p>
+⋆˚꩜｡ <b>Creative</b>
+&nbsp;&nbsp;
+⋆˚꩜｡ <b>Digital</b>
+&nbsp;&nbsp;
+⋆˚꩜｡ <b>Learning</b>
 
 </td>
 </tr>
 </table>
 
----
-
-# 🌸 PRELIM
-
-<p align="center">
-
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-
 <br>
 
-**DESIGN · CREATIVITY · VISUAL COMMUNICATION**
+<table>
+<tr>
+<td bgcolor="#E981A4" align="center">
 
-</p>
+<b>🌸 PRELIM ⋆. 𐙚 ˚</b>
+
+<br><br>
+
+DESIGN · CREATIVITY · VISUAL COMMUNICATION
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <table>
 <tr>
 
-<td width="50%" bgcolor="#F4C5D7">
+<td bgcolor="#F4C5D7">
 
-### ⋆. 𐙚 ˚ Activity 01
+<b>⋆˚꩜｡ Activity 01</b>
 
-## Presentation Design Principles
+<br><br>
 
-**Promotional Poster**
+<b>🎨 Presentation Design Principles</b>
+
+<br><br>
+
+<b>Promotional Poster</b>
+
+<br><br>
 
 For this activity, I designed a promotional poster while applying different presentation design principles to create a clear, organized, and visually engaging output.
 
-<br>
+<br><br>
 
-`LAYOUT` · `HIERARCHY` · `BALANCE`
+⋆ <b>Layout</b><br>
+𐙚 <b>Hierarchy</b><br>
+⊹ <b>Balance</b>
 
-<br>
+<br><br>
 
-**🔗 [ VIEW ACTIVITY ](#)**
-
-<br>
-
-<p align="center">⊹ ࣪ ˖</p>
+<a href="#">VIEW ACTIVITY →</a>
 
 </td>
 
-<td width="50%" bgcolor="#FCD1DE">
+<td bgcolor="#FCD1DE">
 
-### ✦ 𐙚 Activity 02
+<b>⋆. 𐙚 ˚ Activity 02</b>
 
-## Color Palette & Typography
+<br><br>
 
-**Personal Visual Identity**
+<b>✦ Color Palette & Typography</b>
+
+<br><br>
+
+<b>Personal Visual Identity</b>
+
+<br><br>
 
 For this activity, I created a personal visual identity through a logo, color palette, typography, tagline, and resume header.
 
-This activity allowed me to explore how different visual elements can work together to create a consistent identity.
+<br><br>
 
-<br>
+⋆ <b>Color Palette</b><br>
+𐙚 <b>Typography</b><br>
+⊹ <b>Visual Identity</b>
 
-`COLOR` · `TYPOGRAPHY` · `BRANDING`
+<br><br>
 
-<br>
-
-**🔗 [ VIEW ACTIVITY ](#)**
-
-<br>
-
-<p align="center">⋆. 𐙚 ˚</p>
+<a href="#">VIEW ACTIVITY →</a>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td colspan="2" bgcolor="#F4C5D7">
-
-### 𐙚 Activity 03
-
-## Social Media Infographics & Mini Project Documentation
-
-This activity combined visual communication and technology through the creation of a **social media infographic** and a **technology-based mini project proposal**.
-
-It allowed me to explore how digital tools can be used to present information clearly, creatively, and meaningfully.
+</table>
 
 <br>
 
 <table>
 <tr>
-<td align="center" bgcolor="#FCD1DE">
+<td bgcolor="#F4C5D7">
 
-### 📱 𐙚 SOCIAL MEDIA INFOGRAPHIC
+<b>𐙚 Activity 03</b>
 
-</td>
+<br><br>
 
-<td align="center" bgcolor="#FCE0E8">
+<b>📱 Social Media Infographics & Mini Project Documentation</b>
 
-### 💡 ⊹ MINI PROJECT
+<br><br>
+
+This activity combined visual communication and technology through the creation of a <b>social media infographic</b> and a <b>technology-based mini project proposal</b>.
+
+<br><br>
+
+⋆ <b>Infographics</b>
+&nbsp;&nbsp;
+𐙚 <b>Technology</b>
+&nbsp;&nbsp;
+⊹ <b>Innovation</b>
+&nbsp;&nbsp;
+꩜ <b>Problem Solving</b>
+
+<br><br>
+
+<a href="#">VIEW ACTIVITY →</a>
 
 </td>
 </tr>
@@ -140,102 +148,95 @@ It allowed me to explore how digital tools can be used to present information cl
 
 <br>
 
-`INFOGRAPHICS` · `TECHNOLOGY` · `INNOVATION` · `PROBLEM SOLVING`
+<table>
+<tr>
+<td bgcolor="#E981A4" align="center">
 
-<br>
+<b>💗 MIDTERM ⊹ ࣪ ˖</b>
 
-**🔗 [ VIEW ACTIVITY ](#)**
+<br><br>
 
-<br>
-
-<p align="center">
-
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-
-</p>
+GOOGLE WORKSPACE REPORTING
 
 </td>
-
 </tr>
 </table>
 
----
-
-# 💗 MIDTERM
-
-<p align="center">
-
-⋆. 𐙚 ˚ ⊹ ࣪ ˖
-
 <br>
-
-**GOOGLE WORKSPACE REPORTING**
-
-<br>
-
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-
-</p>
 
 <table>
 <tr>
 
-<td width="30%" bgcolor="#FCD1DE" align="center">
+<td bgcolor="#FCD1DE" align="center">
 
-# 📁
+<b>📁 GOOGLE DRIVE</b>
 
-## GOOGLE DRIVE
+<br><br>
 
-**My Assigned Tool**
+⋆˚꩜｡ <b>My Assigned Tool</b>
 
-<br>
+<br><br>
 
-☁️ Cloud Storage  
-📂 File Organization  
-🔗 File Sharing  
-🤝 Collaboration
+𐙚 Cloud Storage
 
 <br>
+⋆ File Organization
 
-⋆. 𐙚 ˚
+<br>
+⊹ File Sharing
+
+<br>
+꩜ Collaboration
 
 </td>
 
-<td width="70%" bgcolor="#F4C5D7">
+<td bgcolor="#F4C5D7">
 
-## 𐙚 Google Workspace Reporting
+<b>𐙚 Google Workspace Reporting</b>
 
-### My Assigned Tool: Google Drive
+<br><br>
 
-For the midterm, we explored the different tools available under **Google Workspace**. My assigned tool was **Google Drive**.
+<b>My Assigned Tool: Google Drive</b>
 
-Through this activity, I explored how Google Drive can be used to **store, organize, access, share, and collaborate** on digital files.
+<br><br>
 
-<br>
+For the midterm, we explored the different tools available under <b>Google Workspace</b>. My assigned tool was <b>Google Drive</b>.
 
-### ⊹ ࣪ ˖ What I Explored
+<br><br>
 
-| Feature | Description |
-|---|---|
-| 📂 **Organization** | Managing files and folders |
-| ☁️ **Storage** | Keeping files in the cloud |
-| 🔗 **Sharing** | Sharing files with others |
-| 🤝 **Collaboration** | Working together on digital files |
-| 📱 **Accessibility** | Accessing files across devices |
+Through this activity, I explored how Google Drive can be used to <b>store, organize, access, share, and collaborate</b> on digital files.
 
-<br>
+<br><br>
 
-**🔗 [ VIEW GOOGLE DRIVE REPORT ](#)**
+<b>⋆˚꩜｡ What I Explored</b>
+
+<br><br>
+
+⋆ <b>Organization</b> — Managing files and folders
 
 <br>
+𐙚 <b>Storage</b> — Keeping files in the cloud
 
-<p align="center">
+<br>
+⊹ <b>Sharing</b> — Sharing files with others
 
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+<br>
+꩜ <b>Collaboration</b> — Working together on digital files
 
-</p>
+<br>
+⋆ <b>Accessibility</b> — Accessing files across devices
+
+<br><br>
+
+<a href="#">VIEW GOOGLE DRIVE REPORT →</a>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+⋆˚꩜｡ ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ ⋆. 𐙚 ˚ ⊹ ࣪ ˖
+</p>
