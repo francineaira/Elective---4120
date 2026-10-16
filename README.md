@@ -2,12 +2,6 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td bgcolor="#AD6182" align="center"><b><font color="#FFFFFF">STUDENT</font></b></td>
-<td bgcolor="#F4C5D7" align="center"><b>FRANCINE AIRA A. SANCHEZ</b></td>
-<td bgcolor="#AD6182" align="center"><b><font color="#FFFFFF">PROGRAM, YEAR &amp; SECTION</font></b></td>
-<td bgcolor="#F4C5D7" align="center"><b>BS NURSING - 4D</b></td>
 </tr>
 </table>
 
@@ -34,8 +28,7 @@
 
 <table align="center">
 <tr>
-<td bgcolor="#AD6182" align="center"><b><font color="#FFFFFF">✨ PERIOD</font></b></td>
-<td bgcolor="#F4C5D7" align="center"><b>PRELIMINARIES</b></td>
+<td bgcolor="#F4C5D7" align="center"><b>PRELIMIs</b></td>
 </tr>
 </table>
 
@@ -72,7 +65,6 @@
 
 <table align="center">
 <tr>
-<td bgcolor="#AD6182" align="center"><b><font color="#FFFFFF">✨ PERIOD</font></b></td>
 <td bgcolor="#F4C5D7" align="center"><b>MIDTERM</b></td>
 </tr>
 </table>
