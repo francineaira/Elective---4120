@@ -1,40 +1,51 @@
-# 🌷 Elective 4120 — Digital Portfolio
+# 🌷 FRAIA — Elective 4120
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ELECTIVE-4120-EA91B1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/4TH%20YEAR-BSN-D8B9E8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/2026-FRANCINE%20AIRA-EAC7D4?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/ELECTIVE%204120-AD6182?style=for-the-badge&labelColor=FCD1DE" />
+<img src="https://img.shields.io/badge/4TH%20YEAR%20BSN-E981A4?style=for-the-badge&labelColor=F4C5D7" />
+
 </p>
 
 <p align="center">
-  <i>Creative • Digital • Learning</i>
+
+### **MADE TO BLOOM**
+
+*Rooted in purpose. Growing with intention. Blooming forward.*
+
 </p>
 
 ---
 
-## 💕 Welcome to My Portfolio
+<table>
+<tr>
+<td>
+
+## 🌸 Welcome to My Portfolio
+
+Hello! I am **Francine Aira A. Sanchez**, a 4th Year Nursing Student at **Ateneo de Davao University (AdDU)**.
+
+Welcome to my **Elective 4120 Digital Portfolio**, where I showcase my creative outputs, digital projects, and learning experiences throughout the course.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <table>
 <tr>
-<td width="65%">
+<td align="center">
 
-### Hi, I'm Francine! 👋🏻
+### 🌷 **FRAIA**
 
-I am **Francine Aira A. Sanchez**, a **4th Year Nursing Student at Ateneo de Davao University (AdDU)**.
-
-Welcome to my **Elective 4120 Digital Portfolio**, where I compiled my activities, creative outputs, presentations, and learning experiences throughout the course.
+**Made to Bloom**
 
 </td>
+<td>
 
-<td width="35%" align="center">
-
-### 🎓
-
-**FRANCINE AIRA A. SANCHEZ**
-
-4th Year Nursing Student
-
-**Ateneo de Davao University**
+My personal branding reflects growth, creativity, and intentionality.  
+The soft pink palette and floral-inspired identity represent a continuous journey of learning, development, and becoming.
 
 </td>
 </tr>
@@ -45,59 +56,51 @@ Welcome to my **Elective 4120 Digital Portfolio**, where I compiled my activitie
 # 🌸 PRELIM
 
 <p align="center">
-  <strong>DESIGN • CREATIVITY • VISUAL COMMUNICATION</strong>
+
+**DESIGN · CREATIVITY · VISUAL COMMUNICATION**
+
 </p>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🎨 Activity 01
+### 🎨 Activity 01
 
-### Presentation Design Principles
-
-━━━━━━━━━━━━━━━━━━━━
+## Presentation Design Principles
 
 **Promotional Poster**
 
-For this activity, I designed a promotional poster while applying different presentation design principles.
-
-**Focus**
-
-`Layout`  
-`Hierarchy`  
-`Balance`  
-`Visual Communication`
+A promotional poster created using different presentation design principles to communicate an idea in a visually engaging and organized way.
 
 <br>
 
-🔗 **[ VIEW ACTIVITY → ](#)**
+`LAYOUT` · `HIERARCHY` · `BALANCE`
+
+<br>
+
+**🔗 [ VIEW ACTIVITY ](#)**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## ✦ Activity 02
+### ✦ Activity 02
 
-### Color Palette & Typography
-
-━━━━━━━━━━━━━━━━━━━━
+## Color Palette & Typography
 
 **Personal Visual Identity**
 
-For this activity, I created a personal visual identity through a logo, color palette, typography, tagline, and resume header.
-
-**Focus**
-
-`Color Palette`  
-`Typography`  
-`Branding`  
-`Visual Identity`
+A personal branding project focused on developing my own visual identity through my logo, color palette, typography, tagline, and resume header.
 
 <br>
 
-🔗 **[ VIEW ACTIVITY → ](#)**
+`BRANDING` · `TYPOGRAPHY` · `VISUAL IDENTITY`
+
+<br>
+
+**🔗 [ VIEW ACTIVITY ](#)**
 
 </td>
 
@@ -105,51 +108,40 @@ For this activity, I created a personal visual identity through a logo, color pa
 
 <tr>
 
-<td width="50%" valign="top">
+<td colspan="2">
 
-## 📱 Activity 03
+### 📱 Activity 03
 
-### Social Media Infographics
+## Social Media Infographics & Mini Project Documentation
 
-━━━━━━━━━━━━━━━━━━━━
+This activity combined visual communication and technology through the creation of a **social media infographic** and a **technology-based mini project proposal**.
 
-**Infographic Design**
-
-For this activity, I designed a social media infographic that presented information in a concise and visually engaging format.
-
-**Focus**
-
-`Infographics`  
-`Social Media`  
-`Digital Design`
+The project allowed me to explore how digital tools can be used to present information clearly, creatively, and meaningfully.
 
 <br>
 
-🔗 **[ VIEW ACTIVITY → ](#)**
+<table>
+<tr>
+<td align="center">
+
+**📱 SOCIAL MEDIA INFOGRAPHIC**
 
 </td>
+<td align="center">
 
-<td width="50%" valign="top">
+**💡 MINI PROJECT**
 
-## 💡 Activity 04
-
-### Mini Project Documentation
-
-━━━━━━━━━━━━━━━━━━━━
-
-**Technology-Based Mini Project**
-
-For this activity, I developed a technology-based mini project proposal exploring how technology can address a specific need or problem.
-
-**Focus**
-
-`Technology`  
-`Innovation`  
-`Problem Solving`
+</td>
+</tr>
+</table>
 
 <br>
 
-🔗 **[ VIEW PROJECT → ](#)**
+`INFOGRAPHICS` · `TECHNOLOGY` · `INNOVATION` · `PROBLEM SOLVING`
+
+<br>
+
+**🔗 [ VIEW ACTIVITY ](#)**
 
 </td>
 
@@ -158,54 +150,53 @@ For this activity, I developed a technology-based mini project proposal explorin
 
 ---
 
-# 💙 MIDTERM
+# 💗 MIDTERM
 
 <p align="center">
-  <strong>GOOGLE WORKSPACE • DIGITAL PRODUCTIVITY • COLLABORATION</strong>
+
+**GOOGLE WORKSPACE REPORTING**
+
 </p>
 
 <table>
 <tr>
 
-<td width="35%" align="center">
+<td width="30%" align="center">
 
 # 📁
 
-## GOOGLE
-## DRIVE
+## GOOGLE DRIVE
+
+**My Assigned Tool**
 
 ☁️ Cloud Storage  
-📂 Organization  
+📂 File Organization  
 🔗 File Sharing  
 🤝 Collaboration
 
 </td>
 
-<td width="65%" valign="top">
+<td width="70%">
 
-## 💻 Google Workspace Reporting
+### Google Workspace Reporting
 
-### My Assigned Tool: Google Drive
+For the midterm, we explored the different tools available under **Google Workspace**. My assigned tool was **Google Drive**.
 
-━━━━━━━━━━━━━━━━━━━━
-
-For the midterm, we explored different tools under **Google Workspace**. My assigned tool was **Google Drive**.
-
-Through this activity, I explored how Google Drive can be used to store, organize, share, and collaborate on digital files.
-
-### 🔎 What I Explored
-
-| Feature | Description |
-|---|---|
-| 📂 **Organization** | Managing files and folders |
-| ☁️ **Storage** | Keeping files in the cloud |
-| 🔗 **Sharing** | Sharing files with others |
-| 🤝 **Collaboration** | Working together on digital files |
-| 📱 **Accessibility** | Accessing files across devices |
+Through this activity, I explored how Google Drive can be used to organize, store, access, share, and collaborate on digital files.
 
 <br>
 
-🔗 **[ VIEW GOOGLE DRIVE REPORT → ](#)**
+| Feature | What I Explored |
+|---|---|
+| 📂 | File and folder organization |
+| ☁️ | Cloud storage |
+| 🔗 | File sharing |
+| 🤝 | Collaboration |
+| 📱 | Accessibility across devices |
+
+<br>
+
+**🔗 [ VIEW GOOGLE DRIVE REPORT ](#)**
 
 </td>
 
@@ -214,26 +205,129 @@ Through this activity, I explored how Google Drive can be used to store, organiz
 
 ---
 
-# ✨ What I Learned
+# 🌷 MY BRANDING
+
+<table>
+<tr>
+
+<td align="center">
+
+### **FRAIA**
+
+🌸
+
+**MADE TO BLOOM**
+
+</td>
+
+<td>
+
+### Personal Visual Identity
+
+My branding represents my personal growth and the idea that learning is a continuous process. The floral-inspired identity reflects **growth, purpose, creativity, and becoming**.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🎨 COLOR PALETTE
+
+<br>
+
+**GRAY PINK**  
+`#AD6182`
+
+</td>
+
+<td align="center">
+
+### 🌸 PASTEL PINK
+
+<br>
+
+`#E981A4`
+
+</td>
+
+<td align="center">
+
+### ♡ LIGHT PINK
+
+<br>
+
+`#F4C5D7`
+
+</td>
+
+<td align="center">
+
+### ✿ LIGHT CRIMSON
+
+<br>
+
+`#FCD1DE`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### ✍🏻 TYPOGRAPHY
+
+**Tan Pearl**
+
+Display / Decorative Font
+
+</td>
+
+<td width="50%" align="center">
+
+### Aa TYPOGRAPHY
+
+**Montserrat**
+
+Supporting / Body Font
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ✨ WHAT I LEARNED
 
 <table>
 <tr>
 
 <td width="25%" align="center">
 
-## 🎨
+### 🎨
 
-### Creativity
+**CREATIVITY**
 
-Exploring visual design and creative presentation.
+Exploring creative ways to communicate ideas.
 
 </td>
 
 <td width="25%" align="center">
 
-## 💻
+### 💻
 
-### Digital Skills
+**DIGITAL SKILLS**
 
 Using technology for academic and professional tasks.
 
@@ -241,21 +335,21 @@ Using technology for academic and professional tasks.
 
 <td width="25%" align="center">
 
-## 🗣️
+### 🗣️
 
-### Communication
+**COMMUNICATION**
 
-Presenting ideas clearly and effectively.
+Presenting information clearly and effectively.
 
 </td>
 
 <td width="25%" align="center">
 
-## 🤝
+### 🌱
 
-### Collaboration
+**GROWTH**
 
-Working and sharing through digital platforms.
+Developing skills through continuous learning.
 
 </td>
 
@@ -264,58 +358,63 @@ Working and sharing through digital platforms.
 
 ---
 
-# 🌱 My Learning Journey
+# 🌸 MY LEARNING JOURNEY
 
 <table>
 <tr>
+
 <td>
 
-### 🌸 PRELIM
+### 01 · PRELIM
 
 **Design & Creativity**
 
-I explored the creative side of technology through presentation design, visual identity, infographics, and project development.
+I explored presentation design, personal branding, infographics, and technology-based project development.
 
 </td>
+
+</tr>
+
+<tr>
 
 <td>
 
-### 💙 MIDTERM
+### 02 · MIDTERM
 
 **Digital Productivity**
 
-I explored Google Drive and learned how cloud-based tools can support organization, accessibility, sharing, and collaboration.
+I explored Google Drive and its role in file organization, cloud storage, accessibility, sharing, and collaboration.
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-# 👩🏻‍⚕️ About Me
+# 👩🏻‍⚕️ ABOUT ME
 
 <table>
 <tr>
 
 <td width="30%" align="center">
 
-## 🩷
+### 🌷
 
-### Francine Aira A. Sanchez
+**FRANCINE AIRA A. SANCHEZ**
 
-**4th Year Nursing Student**
+4th Year Nursing Student
 
-Ateneo de Davao University
+**Ateneo de Davao University**
 
 </td>
 
 <td width="70%">
 
-As a nursing student, Elective 4120 gave me the opportunity to explore skills outside of my usual academic work.
+As a nursing student, Elective 4120 gave me the opportunity to develop skills beyond traditional academic work.
 
-Through these activities, I developed my understanding of **digital design, technology, communication, and collaboration**.
-
-These skills are valuable not only in school but also in a future healthcare environment where technology continues to influence documentation, communication, education, and professional practice.
+Through the activities in this course, I explored **digital design, technology, communication, creativity, and collaboration**. These skills are also relevant to nursing practice, where technology plays an important role in documentation, communication, education, and professional collaboration.
 
 </td>
 
@@ -324,63 +423,54 @@ These skills are valuable not only in school but also in a future healthcare env
 
 ---
 
-# 📚 Portfolio Overview
+# 🌷 PORTFOLIO
 
 <table>
 <tr>
-<th>Period</th>
-<th>Activity</th>
-<th>Focus</th>
-</tr>
 
-<tr>
-<td>🌸 Prelim</td>
-<td>Presentation Design Principles</td>
-<td>🎨 Visual Communication</td>
-</tr>
+<td align="center">
 
-<tr>
-<td>🌸 Prelim</td>
-<td>Color Palette & Typography</td>
-<td>✦ Personal Branding</td>
-</tr>
+### 🌸 PRELIM
 
-<tr>
-<td>🌸 Prelim</td>
-<td>Social Media Infographics</td>
-<td>📱 Digital Design</td>
-</tr>
+**03 ACTIVITIES**
 
-<tr>
-<td>🌸 Prelim</td>
-<td>Mini Project Documentation</td>
-<td>💡 Technology & Innovation</td>
-</tr>
+Presentation Design  
+Color Palette & Typography  
+Social Media Infographics & Mini Project
 
-<tr>
-<td>💙 Midterm</td>
-<td>Google Workspace Reporting</td>
-<td>💻 Digital Productivity</td>
-</tr>
+</td>
 
-<tr>
-<td>💙 Midterm</td>
-<td>Google Drive</td>
-<td>📁 Cloud Collaboration</td>
-</tr>
+<td align="center">
 
+### 💗 MIDTERM
+
+**GOOGLE WORKSPACE**
+
+Google Drive Reporting
+
+</td>
+
+</tr>
 </table>
 
 ---
 
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<br>
+
+**Elective 4120 · Francine Aira A. Sanchez · 2026**
+
+</td>
+</tr>
+</table>
+
 <p align="center">
 
-## 🌷 Thank You for Visiting My Portfolio! 🌷
-
-<i>Elective 4120 · Francine Aira A. Sanchez · 2026</i>
-
-<br><br>
-
-♡ Made with creativity and curiosity ♡
+♡ ───────────────────────── ♡
 
 </p>
