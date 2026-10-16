@@ -1,8 +1,7 @@
-# 🌷 Elective 4120 — Digital Portfolio
+# Elective 4120 — Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖
+
 
 <p align="center">
-
-⋆. 𐙚 ˚ ⊹ ࣪ ˖
 
 <br>
 
