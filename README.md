@@ -37,7 +37,7 @@
 
 <td width="33%" align="center" valign="top">
 
-<h3>🌸 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%201%3A%20Presentation%20Design%20Principles">ACTIVITY 1</a></h3>
+<h3>🌸 ACTIVITY 1</h3>
 
 <h4>Presentation Design Principles</h4>
 
@@ -47,11 +47,15 @@
 A promotional poster created by applying presentation design principles to create a clear, organized, and visually engaging output.
 </p>
 
+<p>
+<a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%201%3A%20Presentation%20Design%20Principles">View Activity →</a>
+</p>
+
 </td>
 
 <td width="33%" align="center" valign="top">
 
-<h3>🎨 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%202%3A%20Color%20Palette%20and%20Typography">ACTIVITY 2</a></h3>
+<h3>🎨 ACTIVITY 2</h3>
 
 <h4>Color Palette &amp; Typography</h4>
 
@@ -61,11 +65,15 @@ A promotional poster created by applying presentation design principles to creat
 A personal visual identity created through a logo, color palette, typography, tagline, and resume header.
 </p>
 
+<p>
+<a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%202%3A%20Color%20Palette%20and%20Typography">View Activity →</a>
+</p>
+
 </td>
 
 <td width="33%" align="center" valign="top">
 
-<h3>🌷 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation">ACTIVITY 3</a></h3>
+<h3>🌷 ACTIVITY 3</h3>
 
 <h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
 
@@ -73,6 +81,10 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 <p>
 A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
+</p>
+
+<p>
+<a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation">View Activity →</a>
 </p>
 
 </td>
