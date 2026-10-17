@@ -1,3 +1,25 @@
+<h1 align="center">Elective 4120 - Digital Portfolio ⋆. 𐙚 ˚ ⊹ ࣪ ˖</h1>
+
+<br>
+
+<h2>🌷 About the Portfolio</h2>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<p>Hi! My name is <b>Francine Aira A. Sanchez</b>.</p>
+
+<p>I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.</p>
+
+<p>Welcome to my Elective 4120 Digital Portfolio, where I showcase my activities, creative outputs, and learning experiences throughout the course.</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <h2>🌸 My Showcase</h2>
 
 <br>
@@ -58,8 +80,6 @@ A personal visual identity created through a logo, color palette, typography, ta
 <h3>🌷 ACTIVITY 3</h3>
 
 <h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
-
-<p>&nbsp;</p>
 
 <p align="justify">
 A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
