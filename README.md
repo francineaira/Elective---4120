@@ -8,7 +8,7 @@
 <tr>
 <td align="center">
 
-<p> Hi! My name is <b>Francine Aira A. Sanchez</b>.</p>
+<p>Hi! My name is <b>Francine Aira A. Sanchez</b>.</p>
 
 <p>I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.</p>
 
@@ -109,7 +109,7 @@ Google Workspace Reporting
 <td>
 
 <p>
-For the midterms, we explored the different tools available under Google Workspace. </b>.
+For the midterms, we explored the different tools available under Google Workspace. My assigned tool was <b>Google Drive</b>.
 </p>
 
 <p>
