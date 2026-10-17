@@ -6,7 +6,7 @@
 
 <table width="100%">
 <tr>
-<td align="center">
+<td align="justify">
 
 <p>Hi! My name is <b>Francine Aira A. Sanchez</b>. I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.</p>
 
