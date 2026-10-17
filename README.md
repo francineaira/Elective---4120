@@ -37,9 +37,9 @@
 
 <td width="33%" align="center" valign="top">
 
-<h3>🌸 ACTIVITY 1</h3>
+<h3>🌸 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%201%3A%20Presentation%20Design%20Principles">ACTIVITY 1</a></h3>
 
-<h4>Presentation Design Principles<br>&nbsp;</h4>
+<h4>Presentation Design Principles</h4>
 
 <p><b>Promotional Poster</b></p>
 
@@ -51,9 +51,9 @@ A promotional poster created by applying presentation design principles to creat
 
 <td width="33%" align="center" valign="top">
 
-<h3>🎨 ACTIVITY 2</h3>
+<h3>🎨 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%202%3A%20Color%20Palette%20and%20Typography">ACTIVITY 2</a></h3>
 
-<h4>Color Palette &amp; Typography<br>&nbsp;</h4>
+<h4>Color Palette &amp; Typography</h4>
 
 <p><b>Personal Visual Identity</b></p>
 
@@ -65,7 +65,7 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 <td width="33%" align="center" valign="top">
 
-<h3>🌷 ACTIVITY 3</h3>
+<h3>🌷 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation">ACTIVITY 3</a></h3>
 
 <h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
 
