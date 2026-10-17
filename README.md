@@ -39,7 +39,7 @@
 
 <h3>🌸 ACTIVITY 1</h3>
 
-<h4>Presentation Design Principles</h4>
+<h4>Presentation Design Principles<br>&nbsp;</h4>
 
 <p><b>Promotional Poster</b></p>
 
@@ -53,7 +53,7 @@ A promotional poster created by applying presentation design principles to creat
 
 <h3>🎨 ACTIVITY 2</h3>
 
-<h4>Color Palette &amp; Typography</h4>
+<h4>Color Palette &amp; Typography<br>&nbsp;</h4>
 
 <p><b>Personal Visual Identity</b></p>
 
