@@ -8,9 +8,7 @@
 <tr>
 <td align="center">
 
-<h3>🎀 Welcome to my digital portfolio!</h3>
-
-<p>𐙚 Hi! My name is <b>Francine Aira A. Sanchez</b>.</p>
+<p> Hi! My name is <b>Francine Aira A. Sanchez</b>.</p>
 
 <p>I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.</p>
 
@@ -26,9 +24,11 @@
 
 <br>
 
-<p align="center">
-<b>🎀 PRELIMS</b>
-</p>
+<table align="center">
+<tr>
+<td align="center"><b>🎀 PRELIMS</b></td>
+</tr>
+</table>
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <p><b>Promotional Poster</b></p>
 
-<p align="justify">
+<p>
 A promotional poster created by applying presentation design principles to create a clear, organized, and visually engaging output.
 </p>
 
@@ -57,7 +57,7 @@ A promotional poster created by applying presentation design principles to creat
 
 <p><b>Personal Visual Identity</b></p>
 
-<p align="justify">
+<p>
 A personal visual identity created through a logo, color palette, typography, tagline, and resume header.
 </p>
 
@@ -69,7 +69,7 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 <h4>Social Media Infographics &amp; Mini Project Documentation</h4>
 
-<p align="justify">
+<p>
 A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
 </p>
 
@@ -80,9 +80,11 @@ A social media infographic and a technology-based mini project proposal created 
 
 <br><br>
 
-<p align="center">
-<b>🎀 MIDTERMS</b>
-</p>
+<table align="center">
+<tr>
+<td align="center"><b>🎀 MIDTERMS</b></td>
+</tr>
+</table>
 
 <br>
 
@@ -92,7 +94,11 @@ A social media infographic and a technology-based mini project proposal created 
 
 <h2>☁️ GOOGLE DRIVE</h2>
 
-<h3>Google Workspace Reporting</h3>
+<h3>
+<a href="https://drive.google.com/drive/folders/1mkIBBTplv87jwekY88pwAyOornMAo8vq?usp=sharing">
+Google Workspace Reporting
+</a>
+</h3>
 
 </td>
 </tr>
@@ -101,7 +107,7 @@ A social media infographic and a technology-based mini project proposal created 
 <td>
 
 <p>
-For the midtermS, we explored the different tools available under Google Workspace. My assigned tool was <b>Google Drive</b>.
+For the midterms, we explored the different tools available under Google Workspace. My assigned tool was <b>Google Drive</b>.
 </p>
 
 <p>
