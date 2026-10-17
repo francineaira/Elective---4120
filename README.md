@@ -8,9 +8,7 @@
 <tr>
 <td align="center">
 
-<p>Hi! My name is <b>Francine Aira A. Sanchez</b>.</p>
-
-<p>I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.</p>
+<p>Hi! My name is <b>Francine Aira A. Sanchez. I am a <b>4th Year Nursing Student at Ateneo de Davao University (AdDU)</b>.</p>
 
 <p>Welcome to my Elective 4120 Digital Portfolio, where I showcase my activities, creative outputs, and learning experiences throughout the course.</p>
 
