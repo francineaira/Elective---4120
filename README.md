@@ -83,7 +83,9 @@ View Activity →
 
 <h3>🌷 ACTIVITY 3</h3>
 
-<h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
+<h4>Social Media Infographics &amp; </h4>
+
+<p><b>Mini Project Documentation</b></p>
 
 <p>&nbsp;</p>
 
