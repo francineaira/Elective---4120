@@ -35,76 +35,68 @@
 <table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="middle" height="60">
+<td width="33%" align="center" valign="top">
+
 <h3>🌸 ACTIVITY 1</h3>
-</td>
 
-<td width="33%" align="center" valign="middle" height="60">
-<h3>🎨 ACTIVITY 2</h3>
-</td>
-
-<td width="33%" align="center" valign="middle" height="60">
-<h3>🌷 ACTIVITY 3</h3>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="middle" height="75">
 <h4>Presentation Design Principles</h4>
-</td>
 
-<td width="33%" align="center" valign="middle" height="75">
-<h4>Color Palette &amp; Typography</h4>
-</td>
+<p><b>Promotional Poster</b></p>
 
-<td width="33%" align="center" valign="middle" height="75">
-<h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
-</td>
+<br>
 
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="top" height="120">
 <p>
 A promotional poster created by applying presentation design principles to create a clear, organized, and visually engaging output.
 </p>
-</td>
 
-<td width="33%" align="center" valign="top" height="120">
 <p>
-A personal visual identity created through a logo, color palette, typography, tagline, and resume header.
-</p>
-</td>
-
-<td width="33%" align="center" valign="top" height="120">
-<p>
-A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
-</p>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="middle" height="55">
 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%201%3A%20Presentation%20Design%20Principles">
 View Activity →
 </a>
+</p>
+
 </td>
 
-<td width="33%" align="center" valign="middle" height="55">
+<td width="33%" align="center" valign="top">
+
+<h3>🎨 ACTIVITY 2</h3>
+
+<h4>Color Palette &amp; Typography</h4>
+
+<p><b>Personal Visual Identity</b></p>
+
+<br>
+
+<p>
+A personal visual identity created through a logo, color palette, typography, tagline, and resume header.
+</p>
+
+<p><br>
 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%202%3A%20Color%20Palette%20and%20Typography">
 View Activity →
 </a>
+</p>
+
 </td>
 
-<td width="33%" align="center" valign="middle" height="55">
+<td width="33%" align="center" valign="top">
+
+<h3>🌷 ACTIVITY 3</h3>
+
+<h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
+
+<p>&nbsp;</p>
+
+<p>
+A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
+</p>
+
+<p>
 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation">
 View Activity →
 </a>
+</p>
+
 </td>
 
 </tr>
@@ -123,27 +115,17 @@ View Activity →
 <table width="100%">
 
 <tr>
-<td align="center" height="70">
+<td align="center">
 
 <h2>☁️ GOOGLE DRIVE</h2>
 
-</td>
-</tr>
-
-<tr>
-<td align="center" height="55">
-
 <h3>Google Workspace Reporting</h3>
 
-</td>
-</tr>
-
-<tr>
-<td align="center" height="60">
-
+<p>
 <a href="https://drive.google.com/drive/folders/1mkIBBTplv87jwekY88pwAyOornMAo8vq?usp=sharing">
 View Activity →
 </a>
+</p>
 
 </td>
 </tr>
@@ -152,11 +134,7 @@ View Activity →
 <td>
 
 <p>
-For the midterms, we explored the different tools available under Google Workspace.
-</p>
-
-<p>
-Through this activity, I explored how Google Drive can be used to store, organize, access, share, and collaborate on digital files.
+For the midterms, we explored the different tools available under Google Workspace. Through this activity, I explored how Google Drive can be used to store, organize, access, share, and collaborate on digital files.
 </p>
 
 </td>
