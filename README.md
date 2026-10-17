@@ -39,9 +39,10 @@
 
 <h3>🌸 ACTIVITY 1</h3>
 
-<h4>Presentation Design Principles</h4>
-
-<p><b>Promotional Poster</b></p>
+<h4>
+Presentation Design Principles<br>
+Promotional Poster
+</h4>
 
 <p align="justify">
 A promotional poster created by applying presentation design principles to create a clear, organized, and visually engaging output.
@@ -59,9 +60,10 @@ A promotional poster created by applying presentation design principles to creat
 
 <h3>🎨 ACTIVITY 2</h3>
 
-<h4>Color Palette &amp; Typography</h4>
-
-<p><b>Personal Visual Identity</b></p>
+<h4>
+Color Palette &amp; Typography<br>
+Personal Visual Identity
+</h4>
 
 <p align="justify">
 A personal visual identity created through a logo, color palette, typography, tagline, and resume header.
@@ -79,7 +81,11 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 <h3>🌷 ACTIVITY 3</h3>
 
-<h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
+<h4>
+Social Media Infographics &amp;<br>
+Mini Project Documentation<br>
+&nbsp;
+</h4>
 
 <p align="justify">
 A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
