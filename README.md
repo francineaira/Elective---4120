@@ -87,7 +87,7 @@ View Activity →
 
 <p><b>Mini Project Documentation</b></p>
 
-<p>&nbsp;</p>
+<br>
 
 <p>
 A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
