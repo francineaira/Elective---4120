@@ -35,7 +35,7 @@
 <table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 <h3>🌸 ACTIVITY 1</h3>
 
@@ -49,7 +49,7 @@ A promotional poster created by applying presentation design principles to creat
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 <h3>🎨 ACTIVITY 2</h3>
 
@@ -63,11 +63,13 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 <h3>🌷 ACTIVITY 3</h3>
 
-<h4>Social Media Infographics &amp; Mini Project Documentation</h4>
+<h4>Social Media Infographics &amp;<br>Mini Project Documentation</h4>
+
+<p><b>&nbsp;</b></p>
 
 <p>
 A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
@@ -107,7 +109,7 @@ Google Workspace Reporting
 <td>
 
 <p>
-For the midterms, we explored the different tools available under Google Workspace. My assigned tool was <b>Google Drive</b>.
+For the midterms, we explored the different tools available under Google Workspace. </b>.
 </p>
 
 <p>
