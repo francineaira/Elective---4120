@@ -109,7 +109,7 @@ Google Workspace Reporting
 <td>
 
 <p>
-For the midterms, we explored the different tools available under Google Workspace. My assigned tool was <b>Google Drive</b>.
+For the midterms, we explored the different tools available under Google Workspace.
 </p>
 
 <p>
