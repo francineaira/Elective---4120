@@ -1,7 +1,6 @@
 
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Elective%204120&fontSize=48&fontColor=8F536B&fontAlignY=38&desc=Digital%20Portfolio%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
@@ -44,11 +43,13 @@ A little archive of the things I've created, explored, and learned along the way
 
 <br>
 
-<h2 align="center">🎀 01 — PRELIMS</h2>
+<div align="center">
 
-<p align="center">
-<i>the beginning of the collection ⋆｡°✩</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=110&section=header&text=01%20%E2%80%94%20PRELIMS&fontSize=32&fontColor=8F536B&fontAlignY=50" width="100%" />
+
+*the beginning of the collection ⋆｡°✩*
+
+</div>
 
 <br>
 
@@ -134,16 +135,15 @@ A social media infographic and a technology-based mini project proposal created 
 ⋆｡°✩ ─────────── ♡ ─────────── ⋆｡°✩
 </p>
 
-<p align="center">
-</p>
-
 <br>
 
-<h2 align="center">☁️ 02 — MIDTERMS</h2>
+<div align="center">
 
-<p align="center">
-<i>exploring tools and discovering new ways to work</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=110&section=header&text=02%20%E2%80%94%20MIDTERMS&fontSize=32&fontColor=8F536B&fontAlignY=50" width="100%" />
+
+*exploring tools and discovering new ways to work ☁️*
+
+</div>
 
 <br>
 
@@ -181,6 +181,100 @@ For the midterms, we explored the different tools available under Google Workspa
 
 <br>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=110&section=header&text=03%20%E2%80%94%20PREFINALS&fontSize=32&fontColor=8F536B&fontAlignY=50" width="100%" />
+
+*exploring new possibilities, building skills, and presenting my work 🪻*
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🤖 ACTIVITY 05
+
+**AI Tools**
+
+*Exploring Artificial Intelligence*
+
+An activity focused on exploring artificial intelligence tools and discovering how they can support creativity, productivity, and learning.
+
+<br>
+
+<a href="#">
+
+**VIEW ACTIVITY →**
+
+</a>
+
+<br><br>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🖥️ ACTIVITY 06
+
+**Digital Portfolio**
+
+*Personal Digital Showcase*
+
+A digital portfolio showcasing my academic outputs, creative projects, and learning experiences throughout Elective 4120.
+
+<br>
+
+<a href="#">
+
+**VIEW ACTIVITY →**
+
+</a>
+
+<br><br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 📄 ACTIVITY 07
+
+**Resume**
+
+*Professional Profile and Career Preparation*
+
+A resume highlighting my educational background, skills, qualifications, and experiences as a nursing student.
+
+<br>
+
+<a href="#">
+
+**VIEW ACTIVITY →**
+
+</a>
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+🪷 ─────────────── ✧ ─────────────── 🪄
+</p>
+
+<br>
+
 <h2 align="center">🧸 LITTLE NOTES ALONG THE WAY</h2>
 
 <table width="100%">
@@ -206,7 +300,7 @@ This collection represents not just the outputs I have completed, but also the s
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=100&section=footer&text=End%20of%20this%20page%2C%20not%20the%20end%20of%20the%20collection%20%E2%99%A1&fontSize=15&fontColor=8F536B" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=120&section=footer&text=The%20collection%20continues%20%E2%99%A1&fontSize=25&fontColor=8F536B" width="100%" />
 </p>
 
 <div align="center">
@@ -214,6 +308,8 @@ This collection represents not just the outputs I have completed, but also the s
 **Francine Aira A. Sanchez**
 
 🌸 Elective 4120 — Digital Portfolio
+
+Ateneo de Davao University
 
 © 2026
 
