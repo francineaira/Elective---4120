@@ -1,15 +1,12 @@
 
 <div align="center">
 
-# 🌷 Elective 4120 — Digital Portfolio ⋆｡°✩
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Elective%204120&fontSize=48&fontColor=8F536B&fontAlignY=38&desc=Digital%20Portfolio%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
 
 *ੈ✩‧₊˚ a little collection of learning, creating, and everything in between ˚₊‧✩ੈ*
-
-🦢　🎀　🌸　🧸　✧
 
 </div>
 
@@ -138,7 +135,6 @@ A social media infographic and a technology-based mini project proposal created 
 </p>
 
 <p align="center">
-🌷　🧸　☁️　🦢　🎨
 </p>
 
 <br>
@@ -218,8 +214,6 @@ This collection represents not just the outputs I have completed, but also the s
 **Francine Aira A. Sanchez**
 
 🌸 Elective 4120 — Digital Portfolio
-
-Ateneo de Davao University
 
 © 2026
 
