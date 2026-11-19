@@ -1,185 +1,162 @@
-# 🌷 Elective 4120 — Digital Portfolio ⋆｡°✩
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Elective%204120&fontSize=48&fontColor=8F536B&fontAlignY=38&desc=Digital%20Portfolio%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
+<div align="center">
+
+# ✧･ﾟ: *✧･ﾟ:*  ELECTIVE 4120  *:･ﾟ✧*:･ﾟ✧
+
+### <span style="color:#C98F9D">DIGITAL PORTFOLIO</span>
+
+<p>
+  <img src="https://img.shields.io/badge/COURSE-ELECTIVE%204120-C98F9D?style=for-the-badge&labelColor=F5EDE8" />
+  <img src="https://img.shields.io/badge/STUDENT-FRANCINE%20AIRA%20A.%20SANCHEZ-8D6975?style=for-the-badge&labelColor=F5EDE8" />
 </p>
 
-<p align="center">
-  <i>a little collection of learning, creating, and everything in between.</i>
+<p>
+  <img src="https://img.shields.io/badge/PROGRAM-BS%20NURSING-E8C5CC?style=for-the-badge&labelColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/YEAR%20%26%20SECTION-4TH%20YEAR%20%7C%204D-C98F9D?style=for-the-badge&labelColor=FFFFFF" />
 </p>
 
-<br>
+*ੈ✩‧₊˚ A collection of learning, creativity, and growth ˚₊‧✩ੈ*
 
-<h2 align="center">🎀 ABOUT THIS COLLECTION</h2>
+</div>
 
-<table width="100%">
-<tr>
-<td align="center">
+---
 
-Hi! I'm **Francine Aira A. Sanchez**, a **4th Year Nursing Student at Ateneo de Davao University (AdDU)**.
+<div align="center">
 
-Welcome to my Elective 4120 Digital Portfolio! This is where I collect and showcase my activities, creative outputs, projects, and learning experiences throughout the course.
+## ♡ ABOUT THE PORTFOLIO ♡
 
-A little archive of the things I've created, explored, and learned along the way. ♡
+</div>
 
-</td>
-</tr>
-</table>
+> Welcome to my digital portfolio! 
+>
+> This repository serves as a collection of my activities, creative outputs, and learning experiences throughout **Elective 4120** at **Ateneo de Davao University (AdDU)**. It showcases my progress in developing digital skills, exploring creative applications, and applying technology through various academic activities and projects.
+>
+> ✧ *Every output represents a step toward continuous learning and growth.*
 
-<br>
+---
 
-<h2 align="center">🌸 THE COLLECTION</h2>
+<div align="center">
 
-<p align="center">
-  <i>Different activities, different experiences, one learning journey.</i>
-</p>
+## ୨୧ MY DIGITAL SHOWCASE ୨୧
 
-<br>
+*Explore my activities and outputs throughout the semester.*
 
-<h2 align="center">🎀 01 — PRELIMS</h2>
+<br/>
 
-<p align="center">
-  <i>the beginning of the collection</i>
-</p>
+<img src="https://img.shields.io/badge/✧%20PRELIMINARIES-C98F9D?style=for-the-badge&labelColor=F5EDE8" />
 
-<br>
+</div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+### 01. Presentation Design Principles
 
-### 🌷 ACTIVITY 01
+<div align="center">
 
-**Presentation Design Principles**
+<img src="https://img.shields.io/badge/ACTIVITY%2001-DUSTY%20ROSE-C98F9D?style=flat-square" />
 
-*Promotional Poster*
+</div>
 
-A promotional poster created by applying presentation design principles to create a clear, organized, and visually engaging output.
+**Output:** Promotional Poster
 
-<br>
+A promotional poster applying fundamental presentation design principles, focusing on visual organization, clarity, and effective communication of information.
 
-<a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%201%3A%20Presentation%20Design%20Principles">
-**VIEW ACTIVITY →**
-</a>
+<div align="center">
 
-<br><br>
+[![VIEW ACTIVITY](https://img.shields.io/badge/VIEW%20ACTIVITY-8D6975?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francineaira/Elective---4120/tree/main/Activity%201%3A%20Presentation%20Design%20Principles)
 
-</td>
+</div>
 
-<td width="50%" valign="top" align="center">
+---
 
-### 🎨 ACTIVITY 02
+### 02. Color Palette & Typography
 
-**Color Palette & Typography**
+<div align="center">
 
-*Personal Visual Identity*
+<img src="https://img.shields.io/badge/ACTIVITY%2002-SOFT%20MAUVE-8D6975?style=flat-square" />
 
-A personal visual identity created through a logo, color palette, typography, tagline, and resume header.
+</div>
 
-<br>
+**Output:** Personal Visual Identity
 
-<a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%202%3A%20Color%20Palette%20and%20Typography">
-**VIEW ACTIVITY →**
-</a>
+A visual identity project featuring a personalized logo, color palette, typography, tagline, and resume header. It explores the use of cohesive visual elements to establish a distinct identity.
 
-<br><br>
+<div align="center">
 
-</td>
-</tr>
+[![VIEW ACTIVITY](https://img.shields.io/badge/VIEW%20ACTIVITY-8D6975?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francineaira/Elective---4120/tree/main/Activity%202%3A%20Color%20Palette%20and%20Typography)
 
-<tr>
-<td colspan="2" align="center">
+</div>
 
-### 🌸 ACTIVITY 03
+---
 
-**Social Media Infographics & Mini Project Documentation**
+### 03. Social Media Infographics & Mini Project Documentation
 
-*Visual Communication and Technology-Based Project*
+<div align="center">
 
-A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
+<img src="https://img.shields.io/badge/ACTIVITY%2003-WARM%20PINK-E8C5CC?style=flat-square" />
 
-<br>
+</div>
 
-<a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation">
-**VIEW ACTIVITY →**
-</a>
+**Output:** Social Media Infographic & Mini Project Proposal
 
-<br><br>
+This activity features a social media infographic and technology-based mini project documentation, demonstrating how digital tools can communicate information and present practical solutions.
 
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br>
+[![VIEW ACTIVITY](https://img.shields.io/badge/VIEW%20ACTIVITY-8D6975?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francineaira/Elective---4120/tree/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation)
 
-<p align="center">
-  ✧ ──────────────── ♡ ──────────────── ✧
-</p>
+</div>
 
-<br>
+---
 
-<h2 align="center">🎀 02 — MIDTERMS</h2>
+<div align="center">
 
-<p align="center">
-  <i>exploring tools and discovering new ways to work</i>
-</p>
+### ♡ PRELIMINARY PRESENTATION ♡
 
-<br>
+*Watch the video presentation for the Preliminaries.*
 
-<table width="100%">
-<tr>
-<td align="center">
+[![WATCH PRESENTATION](https://img.shields.io/badge/▶%20WATCH%20PRELIMINARY%20PRESENTATION-C98F9D?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/drive/folders/1mkIBBTplv87jwekY88pwAyOornMAo8vq?usp=sharing)
 
-<h3>☁️ GOOGLE WORKSPACE</h3>
+<br/>
 
-**Google Workspace Reporting**
+<img src="https://img.shields.io/badge/✧%20MIDTERMS-8D6975?style=for-the-badge&labelColor=F5EDE8" />
 
-<br>
+</div>
 
-For the midterms, we explored the different tools available under Google Workspace. Through this activity, I explored how Google Drive can be used to store, organize, access, share, and collaborate on digital files.
+### 04. Google Workspace Reporting
 
-<br>
+<div align="center">
 
-<a href="https://drive.google.com/drive/folders/1mkIBBTplv87jwekY88pwAyOornMAo8vq?usp=sharing">
-**VIEW ACTIVITY →**
-</a>
+<img src="https://img.shields.io/badge/MIDTERM%20OUTPUT-GOOGLE%20WORKSPACE-C98F9D?style=flat-square" />
 
-<br><br>
+</div>
 
-</td>
-</tr>
-</table>
+**Output:** Google Workspace Reporting
 
-<br>
+An exploration of Google Workspace and its applications, particularly Google Drive, in storing, organizing, accessing, sharing, and collaborating on digital files and documents.
 
-<h2 align="center">🧸 LITTLE NOTES ALONG THE WAY</h2>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td align="center">
+[![VIEW MIDTERM OUTPUT](https://img.shields.io/badge/VIEW%20MIDTERM%20OUTPUT-8D6975?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mkIBBTplv87jwekY88pwAyOornMAo8vq?usp=sharing)
 
-Every activity is a small reminder of something learned, something created, or something discovered along the way.
+</div>
 
-This collection represents not just the outputs I have completed, but also the skills and experiences I have gained throughout Elective 4120.
+---
 
-<i>one activity at a time, one page at a time. ♡</i>
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/✧%20PREFINALS-C98F9D?style=for-the-badge&labelColor=F5EDE8" />
 
-<br>
+*ੈ✩‧₊˚ More outputs and deliverables will be added soon. ˚₊‧✩ੈ*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=100&section=footer&text=End%20of%20this%20page%2C%20not%20the%20end%20of%20the%20collection%20%E2%99%A1&fontSize=15&fontColor=8F536B" width="100%" />
-</p>
+---
 
-<p align="center">
-  **Francine Aira A. Sanchez**  
-  <br>
-  Elective 4120 — Digital Portfolio  
-  <br>
-  Ateneo de Davao University  
-  <br>
-  © 2026
-</p>
+## ♡ THANK YOU FOR VISITING ♡
+
+*Learning is a continuous journey of patience, creativity, and purpose.*
+
+<br/>
+
+<sub>Made with ♡ by **Francine Aira A. Sanchez**</sub>
+
+<sub>BSN 4D | Ateneo de Davao University | Elective 4120 | 2026</sub>
+
+</div>
