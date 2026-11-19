@@ -293,8 +293,6 @@ This collection represents not just the outputs I have completed, but also the s
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=150&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=27&fontColor=8F536B&fontAlignY=35&desc=Thank%20you%20for%20visiting%20my%20little%20corner!&descSize=16&descAlignY=65&descColor=8F536B" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=48&section=footer&text=Francine%20Aira%20A.%20Sanchez%20%E2%80%A2%202026&fontSize=14&fontColor=8F536B" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=190&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=27&fontColor=8F536B&fontAlignY=28&desc=Thank%20you%20for%20visiting%20my%20little%20corner!%20%7C%20Francine%20Aira%20A.%20Sanchez%20%E2%80%A2%202026&descSize=13&descAlignY=62&descColor=8F536B" width="100%" />
 
 </div>
