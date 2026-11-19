@@ -58,7 +58,7 @@ A little archive of the things I've created, explored, and learned along the way
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2001&fontSize=20&fontColor=8F536B&fontAlignY=50" width="110%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2001&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 ### 🖇️ PRESENTATION DESIGN PRINCIPLES
 
@@ -80,7 +80,7 @@ A promotional poster created by applying presentation design principles to creat
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2002&fontSize=20&fontColor=8F536B&fontAlignY=50" width="110%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2002&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 ### 🖌️ COLOR PALETTE & TYPOGRAPHY
 
@@ -104,7 +104,7 @@ A personal visual identity created through a logo, color palette, typography, ta
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2003&fontSize=20&fontColor=8F536B&fontAlignY=50" width="55%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2003&fontSize=20&fontColor=8F536B&fontAlignY=50" width="50%" />
 
 ### 🦋 SOCIAL MEDIA INFOGRAPHICS & MINI PROJECT DOCUMENTATION
 
@@ -148,7 +148,7 @@ A social media infographic and a technology-based mini project proposal created 
 <tr>
 <td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2004&fontSize=20&fontColor=8F536B&fontAlignY=50" width="55%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2004&fontSize=20&fontColor=8F536B&fontAlignY=50" width="50%" />
 
 <h3>☁️ GOOGLE WORKSPACE</h3>
 
@@ -195,13 +195,13 @@ For the midterms, we explored the different tools available under Google Workspa
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2005&fontSize=20&fontColor=8F536B&fontAlignY=50" width="110%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2005&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 ### 🤖 AI TOOLS
 
-*Exploring Artificial Intelligence*
+*AI-Generated Image Comparison* 🖼️
 
-An activity focused on exploring artificial intelligence tools and discovering how they can support creativity, productivity, and learning.
+Two AI-generated images created using different prompts, with the second prompt providing more specific details. The activity explores how prompt specificity influences the generated images and compares the differences between the outputs.
 
 <br>
 
@@ -217,13 +217,13 @@ An activity focused on exploring artificial intelligence tools and discovering h
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2006&fontSize=20&fontColor=8F536B&fontAlignY=50" width="110%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2006&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
-### 🖥️ DIGITAL PORTFOLIO
+### 🖥️ MAKING A WEBSITE
 
-*Personal Digital Showcase*
+*Personal Portfolio Website* 🌐
 
-A digital portfolio showcasing my academic outputs, creative projects, and learning experiences throughout Elective 4120.
+A personal portfolio website created using Base44, showcasing personal information, skills, experiences, and creative elements through a one-page website design.
 
 <br>
 
@@ -241,13 +241,13 @@ A digital portfolio showcasing my academic outputs, creative projects, and learn
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2007&fontSize=20&fontColor=8F536B&fontAlignY=50" width="55%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2007&fontSize=20&fontColor=8F536B&fontAlignY=50" width="50%" />
 
-### 📄 RESUME
+### 📄 RESUME GENERATING
 
-*Professional Profile and Career Preparation*
+*AI-Assisted Professional Resume* 📝
 
-A resume highlighting my educational background, skills, qualifications, and experiences as a nursing student.
+A one-page professional resume generated using at least two Large Language Model (LLM) tools, comparing and analyzing their outputs to explore differences in content and presentation.
 
 <br>
 
@@ -302,4 +302,3 @@ This collection represents not just the outputs I have completed, but also the s
 *ੈ✩‧₊˚ thank you for visiting my little corner! ˚₊‧✩ੈ*
 
 </div>
-
