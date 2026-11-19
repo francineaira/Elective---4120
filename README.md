@@ -175,7 +175,7 @@ This collection represents not just the outputs I have completed, but also the s
 </p>
 
 <p align="center">
-  **Francine Aira A. Sanchez**  
+  *Francine Aira A. Sanchez*  
   <br>
   Elective 4120 — Digital Portfolio  
   <br>
