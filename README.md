@@ -58,7 +58,7 @@ A little archive of the things I've created, explored, and learned along the way
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2001&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2001&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
 
 ### 🖇️ PRESENTATION DESIGN PRINCIPLES
 
@@ -80,7 +80,7 @@ A promotional poster created by applying presentation design principles to creat
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2002&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2002&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
 
 ### 🖌️ COLOR PALETTE & TYPOGRAPHY
 
@@ -99,14 +99,12 @@ A personal visual identity created through a logo, color palette, typography, ta
 <br><br>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2003&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2003&fontSize=18&fontColor=8F536B&fontAlignY=50" width="47.5%" />
 
 ### 🦋 SOCIAL MEDIA INFOGRAPHICS & MINI PROJECT DOCUMENTATION
 
@@ -125,7 +123,6 @@ A social media infographic and a technology-based mini project proposal created 
 <br><br>
 
 </td>
-
 </tr>
 </table>
 
@@ -151,7 +148,7 @@ A social media infographic and a technology-based mini project proposal created 
 <tr>
 <td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2004&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2004&fontSize=18&fontColor=8F536B&fontAlignY=50" width="47.5%" />
 
 <h3>☁️ GOOGLE WORKSPACE</h3>
 
@@ -198,7 +195,7 @@ For the midterms, we explored the different tools available under Google Workspa
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2005&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2005&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
 
 ### 🤖 AI TOOLS
 
@@ -220,7 +217,7 @@ An activity focused on exploring artificial intelligence tools and discovering h
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2006&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2006&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
 
 ### 🖥️ DIGITAL PORTFOLIO
 
@@ -239,14 +236,12 @@ A digital portfolio showcasing my academic outputs, creative projects, and learn
 <br><br>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2007&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2007&fontSize=18&fontColor=8F536B&fontAlignY=50" width="47.5%" />
 
 ### 📄 RESUME
 
@@ -265,7 +260,6 @@ A resume highlighting my educational background, skills, qualifications, and exp
 <br><br>
 
 </td>
-
 </tr>
 </table>
 
