@@ -197,7 +197,7 @@ For the midterms, we explored the different tools available under Google Workspa
 
 *AI-Generated Image Comparison* 🖼️
 
-The activity explores how prompt specificity influences the generated images and compares the differences between the outputs.
+Two AI-generated images created using different prompts, with the second prompt providing more specific details. The activity explores how prompt specificity influences the generated images and compares the differences between the outputs.
 
 <br>
 
@@ -293,8 +293,8 @@ This collection represents not just the outputs I have completed, but also the s
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=190&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=25&fontColor=8F536B&fontAlignY=28&desc=Elective%204120%20%7C%20Digital%20Portfolio%20%7C%20Ateneo%20de%20Davao%20University%20%7C%20%C2%A9%202026%20%7C%20Francine%20Aira%20A.%20Sanchez&descSize=12&descAlignY=58&descColor=8F536B" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=150&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=27&fontColor=8F536B&fontAlignY=35&desc=Thank%20you%20for%20visiting%20my%20little%20corner!&descSize=16&descAlignY=65&descColor=8F536B" width="100%" />
 
-*ੈ✩‧₊˚ thank you for visiting my little corner! ˚₊‧✩ੈ*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=48&section=footer&text=Francine%20Aira%20A.%20Sanchez%20%E2%80%A2%202026&fontSize=14&fontColor=8F536B" width="100%" />
 
 </div>
