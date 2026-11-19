@@ -19,11 +19,7 @@
 
 Hello! I'm **Francine Aira A. Sanchez**, a **4th Year Nursing Student at Ateneo de Davao University (AdDU)**.
 
-Welcome to my Elective 4120 Digital Portfolio! ♡ This is where I collect and showcase my activities, creative outputs, projects, and learning experiences throughout the course.
-
-A little archive of the things I've created, explored, and learned along the way.
-
-✧ Every output tells a little story of growth and discovery.
+Welcome to my Elective 4120 Digital Portfolio! This is where I collect and showcase my activities, creative outputs, projects, and learning experiences throughout the course.
 
 </td>
 </tr>
@@ -201,7 +197,7 @@ For the midterms, we explored the different tools available under Google Workspa
 
 *AI-Generated Image Comparison* 🖼️
 
-Two AI-generated images created using different prompts, with the second prompt providing more specific details. The activity explores how prompt specificity influences the generated images and compares the differences between the outputs.
+The activity explores how prompt specificity influences the generated images and compares the differences between the outputs.
 
 <br>
 
