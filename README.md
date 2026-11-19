@@ -58,9 +58,9 @@ A little archive of the things I've created, explored, and learned along the way
 
 <td width="50%" valign="top" align="center">
 
-### 🖇️ ACTIVITY 01
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=35&section=header&text=ACTIVITY%2001&fontSize=14&fontColor=8F536B" width="90%" />
 
-**Presentation Design Principles**
+### 🖇️ PRESENTATION DESIGN PRINCIPLES
 
 *Promotional Poster* 🎨
 
@@ -80,9 +80,9 @@ A promotional poster created by applying presentation design principles to creat
 
 <td width="50%" valign="top" align="center">
 
-### 🖌️ ACTIVITY 02
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F3E1E8&height=35&section=header&text=ACTIVITY%2002&fontSize=14&fontColor=8F536B" width="90%" />
 
-**Color Palette & Typography**
+### 🖌️ COLOR PALETTE & TYPOGRAPHY
 
 *Personal Visual Identity* 🪷
 
@@ -106,9 +106,9 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 <td colspan="2" align="center">
 
-### 🦋 ACTIVITY 03
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=35&section=header&text=ACTIVITY%2003&fontSize=14&fontColor=8F536B" width="60%" />
 
-**Social Media Infographics & Mini Project Documentation**
+### 🦋 SOCIAL MEDIA INFOGRAPHICS & MINI PROJECT DOCUMENTATION
 
 *Visual Communication and Technology-Based Project* 💻
 
@@ -150,6 +150,8 @@ A social media infographic and a technology-based mini project proposal created 
 <table width="100%">
 <tr>
 <td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F3E1E8&height=35&section=header&text=MIDTERM%20OUTPUT&fontSize=14&fontColor=8F536B" width="60%" />
 
 <h3>💻 GOOGLE WORKSPACE</h3>
 
@@ -196,9 +198,9 @@ For the midterms, we explored the different tools available under Google Workspa
 
 <td width="50%" valign="top" align="center">
 
-### 🤖 ACTIVITY 05
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=35&section=header&text=ACTIVITY%2005&fontSize=14&fontColor=8F536B" width="90%" />
 
-**AI Tools**
+### 🤖 AI TOOLS
 
 *Exploring Artificial Intelligence*
 
@@ -218,9 +220,9 @@ An activity focused on exploring artificial intelligence tools and discovering h
 
 <td width="50%" valign="top" align="center">
 
-### 🖥️ ACTIVITY 06
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F3E1E8&height=35&section=header&text=ACTIVITY%2006&fontSize=14&fontColor=8F536B" width="90%" />
 
-**Digital Portfolio**
+### 🖥️ DIGITAL PORTFOLIO
 
 *Personal Digital Showcase*
 
@@ -244,9 +246,9 @@ A digital portfolio showcasing my academic outputs, creative projects, and learn
 
 <td colspan="2" align="center">
 
-### 📄 ACTIVITY 07
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=35&section=header&text=ACTIVITY%2007&fontSize=14&fontColor=8F536B" width="60%" />
 
-**Resume**
+### 📄 RESUME
 
 *Professional Profile and Career Preparation*
 
@@ -299,13 +301,9 @@ This collection represents not just the outputs I have completed, but also the s
 🌙 ─────────────── ♡ ─────────────── 🪻
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=120&section=footer&text=The%20collection%20continues%20%E2%99%A1&fontSize=25&fontColor=8F536B" width="100%" />
-</p>
-
 <div align="center">
 
-**Francine Aira A. Sanchez**
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=140&section=footer&text=The%20collection%20continues%20%E2%99%A1&fontSize=25&fontColor=8F536B&fontAlignY=38&desc=Francine%20Aira%20A.%20Sanchez&descSize=13&descAlignY=65&descColor=8F536B" width="100%" />
 
 🌸 Elective 4120 — Digital Portfolio
 
