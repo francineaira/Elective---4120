@@ -58,7 +58,7 @@ A little archive of the things I've created, explored, and learned along the way
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2001&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2001&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
 
 ### 🖇️ PRESENTATION DESIGN PRINCIPLES
 
@@ -80,7 +80,7 @@ A promotional poster created by applying presentation design principles to creat
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2002&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2002&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
 
 ### 🖌️ COLOR PALETTE & TYPOGRAPHY
 
@@ -106,7 +106,7 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 <td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2003&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2003&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
 
 ### 🦋 SOCIAL MEDIA INFOGRAPHICS & MINI PROJECT DOCUMENTATION
 
@@ -151,7 +151,7 @@ A social media infographic and a technology-based mini project proposal created 
 <tr>
 <td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2004&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2004&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
 
 <h3>☁️ GOOGLE WORKSPACE</h3>
 
@@ -198,7 +198,7 @@ For the midterms, we explored the different tools available under Google Workspa
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2005&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2005&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
 
 ### 🤖 AI TOOLS
 
@@ -220,7 +220,7 @@ An activity focused on exploring artificial intelligence tools and discovering h
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2006&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2006&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
 
 ### 🖥️ DIGITAL PORTFOLIO
 
@@ -246,7 +246,7 @@ A digital portfolio showcasing my academic outputs, creative projects, and learn
 
 <td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2007&fontSize=18&fontColor=8F536B&fontAlignY=50" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=55&section=header&text=ACTIVITY%2007&fontSize=18&fontColor=8F536B&fontAlignY=50" width="420" />
 
 ### 📄 RESUME
 
@@ -303,7 +303,7 @@ This collection represents not just the outputs I have completed, but also the s
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=190&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=25&fontColor=8F536B&fontAlignY=28&desc=Elective%204120%20%7C%20Digital%20Portfolio%20%7C%20Ateneo%20de%20Davao%20University%20%7C%20%C2%A9%202026%0A%0AFrancine%20Aira%20A.%20Sanchez&descSize=13&descAlignY=58&descColor=8F536B" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=190&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=25&fontColor=8F536B&fontAlignY=28&desc=Elective%204120%20%7C%20Digital%20Portfolio%20%7C%20Ateneo%20de%20Davao%20University%20%7C%20%C2%A9%202026%20%7C%20Francine%20Aira%20A.%20Sanchez&descSize=12&descAlignY=58&descColor=8F536B" width="100%" />
 
 *ੈ✩‧₊˚ thank you for visiting my little corner! ˚₊‧✩ੈ*
 
