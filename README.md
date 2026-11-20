@@ -1,12 +1,30 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Elective%204120&fontSize=48&fontColor=8F536B&fontAlignY=38&desc=Digital%20Portfolio%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
+<img src="./Cover%20Photo.png" alt="Elective 4120 Cover Photo" width="100%" />
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Elective%204120&fontSize=48&fontColor=8F536B&fontAlignY=38&desc=Digital%20Portfolio%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
 
 *ੈ✩‧₊˚ a little collection of learning, creating, and everything in between ˚₊‧✩ੈ*
 
 </div>
+
+<br>
+
+<h2 align="center">🕊️ ABOUT ME</h2>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+Hello! I'm **Francine Aira A. Sanchez**, a **4th Year Bachelor of Science in Nursing student at Ateneo de Davao University (AdDU)**.
+
+I enjoy exploring digital creativity, technology, design, and new ways of learning. I am interested in creating visual content, experimenting with AI tools, building websites, and developing projects that allow me to express my ideas and creativity.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -15,8 +33,6 @@
 <table width="100%">
 <tr>
 <td align="center">
-
-Hello! I'm **Francine Aira A. Sanchez**, a **4th Year Nursing Student at Ateneo de Davao University (AdDU)**.
 
 Welcome to my Elective 4120 Digital Portfolio! This is where I collect and showcase my activities, creative outputs, projects, and learning experiences throughout the course.
 
