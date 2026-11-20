@@ -36,5 +36,3 @@ The output is a promotional poster designed using presentation design principles
 ## 🪷 Reflection
 
 This activity provided an opportunity to apply presentation design principles in creating a promotional poster. It emphasized the importance of organizing visual elements, choosing appropriate design components, and presenting information in a clear and engaging manner.
-
-*୨୧ ──────────────── ✧ ──────────────── ୨୧*
