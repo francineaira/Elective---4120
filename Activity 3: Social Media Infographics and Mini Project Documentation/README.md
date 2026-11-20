@@ -18,9 +18,25 @@ This activity explores the use of digital tools and visual communication in crea
 
 The social media infographic presents information through a combination of visual elements and concise text. It applies visual communication principles to make the content organized, understandable, and engaging for its intended audience.
 
+<div align="center">
+
+<img src="./Infographic_SANCHEZ.png" alt="Activity 03 Social Media Infographic" width="85%" />
+
+<sub>Social Media Infographic</sub>
+
+</div>
+
 ### 2. Mini Project Documentation
 
 The mini project documentation presents a technology-based project proposal through organized written content. It demonstrates the application of digital tools in developing and documenting a project idea.
+
+<div align="center">
+
+**[📄 VIEW MINI PROJECT DOCUMENTATION →](./DOCUMENTATION_SANCHEZ.pdf)**
+
+<sub>DOCUMENTATION_SANCHEZ.pdf</sub>
+
+</div>
 
 ## ✧ Skills and Concepts Applied
 
