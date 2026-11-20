@@ -201,11 +201,7 @@ Two AI-generated images created using different prompts, with the second prompt 
 
 <br>
 
-<a href="#">
-
-**VIEW ACTIVITY →**
-
-</a>
+**ACTIVITY 05**
 
 <br><br>
 
@@ -223,7 +219,7 @@ A personal portfolio website created using Base44, showcasing personal informati
 
 <br>
 
-<a href="#">
+<a href="https://github.com/francineaira/Elective---4120/tree/01b5b5bcf8c2c4739356c8187f6069ffd77c93d8/Activity%206%3A%20Personal%20Portfolio">
 
 **VIEW ACTIVITY →**
 
@@ -247,7 +243,7 @@ A one-page professional resume generated using at least two Large Language Model
 
 <br>
 
-<a href="#">
+<a href="https://github.com/francineaira/Elective---4120/tree/01b5b5bcf8c2c4739356c8187f6069ffd77c93d8/Activity%207%3A%20Resume%20Generating">
 
 **VIEW ACTIVITY →**
 
