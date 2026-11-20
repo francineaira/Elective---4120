@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=170&section=header&text=Activity%2002&fontSize=42&fontColor=8F536B&fontAlignY=38&desc=Color%20Palette%20%26%20Typography&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=170&section=header&text=Activity%2002&fontSize=42&fontColor=8F536B&fontAlignY=38&desc=Color%20Palette%20and%20Typography&descAlignY=62&descSize=18" width="100%" />
 
 *୨୧ ──────────────── ✧ ──────────────── ୨୧*
 
@@ -36,4 +36,4 @@ The output presents a personal visual identity developed through different desig
 
 ## 🪷 Reflection
 
-This activity provided an opportunity to explore the role of color and typography in developing a personal visual identity. It emphasized the importance of consistency, thoughtful design choices, and the relationship between visual elements in creating a cohesive
+This activity provided an opportunity to explore the role of color and typography in developing a personal visual identity. It emphasized the importance of consistency, thoughtful design choices, and the relationship between visual elements in creating a cohesive personal brand. Through this activity, I gained a better understanding of how design can communicate individuality while maintaining a professional and recognizable appearance.
