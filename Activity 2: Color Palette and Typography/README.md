@@ -30,8 +30,6 @@ The output presents a personal visual identity developed through different desig
 
 </a>
 
-<sub>Personal Visual Identity (PDF)</sub>
-
 </div>
 
 <br>
