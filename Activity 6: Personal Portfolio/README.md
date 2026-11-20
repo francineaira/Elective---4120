@@ -34,8 +34,6 @@ The design uses a soft and minimalist aesthetic, incorporating warm neutral tone
 
 </a>
 
-<sub>Explore my digital scrapbook and the experiences behind it.</sub>
-
 </div>
 
 <br>
