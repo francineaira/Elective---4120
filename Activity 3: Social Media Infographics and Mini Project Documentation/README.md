@@ -58,6 +58,14 @@ The mini project documentation presents a technology-based project proposal thro
 
 <br>
 
+## 🪷 What Have I Learned?
+
+Through this activity, I learned how digital tools can support both visual communication and project development. I gained a better understanding of how to combine concise text and visual elements to create an informative infographic, as well as how to organize ideas into structured project documentation.
+
+One challenge was deciding how to present information without making the infographic overcrowded or difficult to understand. I addressed this by focusing on the organization of content and the use of visual elements to support the message. I can apply these skills in future digital projects by creating clearer visual materials, organizing information effectively, and improving the way I communicate ideas through technology.
+
+<br>
+
 ## 🪷 Reflection
 
 This activity provided an opportunity to explore how digital tools can be used for both visual communication and project development. Creating a social media infographic emphasized the importance of presenting information clearly and creatively, while preparing the mini project documentation strengthened my understanding of organizing and communicating a technology-based project idea.
