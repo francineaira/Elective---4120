@@ -1,7 +1,8 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Elective%204120&fontSize=48&fontColor=8F536B&fontAlignY=38&desc=Digital%20Portfolio%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
+
+<img src="./Cover%20Photo.png" alt="Elective 4120 Digital Portfolio Cover Photo" width="100%" />
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
 
@@ -287,16 +288,16 @@ This collection represents not just the outputs I have completed, but also the s
 
 <br>
 
-<p align="center">
-🌙 ─────────────── ♡ ─────────────── 🪻
-</p>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=200&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=30&fontColor=8F536B&fontAlignY=30&desc=Thank%20you%20for%20visiting%20my%20little%20corner!&descSize=17&descAlignY=65&descColor=8F536B" width="100%" />
+୨୧ ──────────────── ✧ ──────────────── ୨୧
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=115&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=28&fontColor=8F536B&fontAlignY=50" width="85%" />
 
-<sub>Francine Aira A. Sanchez • 2026</sub>
+<sub>Francine Aira A. Sanchez</sub>
+
+<sub>Elective 4120 • Digital Portfolio • 2026</sub>
+
+*thank you for visiting my little corner!* ♡
 
 </div>
