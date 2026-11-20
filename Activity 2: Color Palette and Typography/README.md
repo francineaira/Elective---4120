@@ -22,8 +22,6 @@ The output presents a personal visual identity developed through different desig
 
 **[📄 VIEW ACTIVITY OUTPUT →](./ACTIVITY%202_SANCHEZ.pdf)**
 
-<sub>ACTIVITY 2_SANCHEZ.pdf</sub>
-
 </div>
 
 ## ✧ Components of the Visual Identity
