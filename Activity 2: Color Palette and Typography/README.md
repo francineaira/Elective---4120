@@ -20,13 +20,7 @@ The output presents a personal visual identity developed through different desig
 
 <div align="center">
 
-<a href="./ACTIVITY%202_SANCHEZ.pdf">
-
-<img src="https://img.shields.io/badge/VIEW%20ACTIVITY%20OUTPUT-F8DCE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=8F536B&labelColor=F8DCE7" alt="View Activity 02 PDF" />
-
-</a>
-
-<br>
+**[📄 VIEW ACTIVITY OUTPUT →](./ACTIVITY%202_SANCHEZ.pdf)**
 
 <sub>ACTIVITY 2_SANCHEZ.pdf</sub>
 
@@ -42,4 +36,4 @@ The output presents a personal visual identity developed through different desig
 
 ## 🪷 Reflection
 
-This activity provided an opportunity to explore the role of color and typography in developing a personal visual identity. It emphasized the importance of consistency, thoughtful design choices, and the relationship between visual elements in creating a cohesive personal brand. Through this activity, I gained a better understanding of how design can communicate individuality while maintaining a professional and recognizable appearance.
+This activity provided an opportunity to explore the role of color and typography in developing a personal visual identity. It emphasized the importance of consistency, thoughtful design choices, and the relationship between visual elements in creating a cohesive
