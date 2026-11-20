@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Francine%20Aira%20Sanchez&fontSize=42&fontColor=8F536B&fontAlignY=38&desc=Digital%20Space%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
 
+<img src="./Cover%20Photo.png" alt="Francine's Cover Photo" width="100%" />
+
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
 
 *ੈ✩‧₊˚ creating, exploring, and learning along the way ˚₊‧✩ੈ*
