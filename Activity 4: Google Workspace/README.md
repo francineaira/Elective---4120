@@ -60,6 +60,14 @@ This activity provided an opportunity to understand how Google Drive can support
 
 <br>
 
+## 🪷 What Have I Learned?
+
+Through this activity, I learned how Google Drive can be used to manage digital files through cloud storage, file organization, sharing, and collaboration. I gained a better understanding of how organizing files into folders and managing access permissions can make digital resources easier to locate, access, and share.
+
+One challenge in managing digital files is keeping documents organized and ensuring that shared files have the appropriate access permissions. Exploring Google Drive's folder organization and sharing features helped me understand how to address these concerns. I can apply these skills in future academic and professional tasks by maintaining organized digital files, sharing resources efficiently, and using cloud-based tools to support collaboration.
+
+<br>
+
 ## 🪷 Reflection
 
 This activity helped me become more familiar with Google Drive and its role in managing digital files. Through exploring its features, I learned how files and folders can be organized, accessed, and shared efficiently. I also gained a better understanding of how cloud-based platforms make collaboration more convenient, especially when working with others on academic tasks.
