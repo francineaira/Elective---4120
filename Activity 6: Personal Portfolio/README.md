@@ -68,9 +68,11 @@ The design uses a soft and minimalist aesthetic, incorporating warm neutral tone
 
 <a href="./SANCHEZ_ACTIVITY%206.pdf">
 
-**VIEW ACTIVITY DOCUMENTATION →**
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=85&section=header&text=VIEW%20ACTIVITY%20DOCUMENTATION%20%E2%86%97&fontSize=20&fontColor=8F536B&fontAlignY=50" width="85%" />
 
 </a>
+
+<sub>Activity 06 Documentation (PDF)</sub>
 
 </div>
 
