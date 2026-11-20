@@ -1,92 +1,46 @@
  <div align="center">
 
-<img src="./Cover%20Photo.png" alt="Francine's Cover Photo" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Elective%204120&fontSize=48&fontColor=8F536B&fontAlignY=38&desc=Digital%20Portfolio%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=180&section=header&text=Francine%20Aira%20Sanchez&fontSize=42&fontColor=8F536B&fontAlignY=38&desc=Digital%20Space%20%E2%99%A1&descAlignY=60&descSize=18" width="100%" />
-
-*ੈ✩‧₊˚ creating, exploring, and learning along the way ˚₊‧✩ੈ*
+*ੈ✩‧₊˚ a little collection of learning, creating, and everything in between ˚₊‧✩ੈ*
 
 </div>
 
 <br>
 
-<h2 align="center">🕊️ ABOUT ME</h2>
+<h2 align="center">🕊️ ABOUT THIS COLLECTION</h2>
 
-<p align="center">
-Hello! I'm <b>Francine Aira A. Sanchez</b>, a <b>4th Year Bachelor of Science in Nursing student at Ateneo de Davao University (AdDU)</b>.
-</p>
+<table width="100%">
+<tr>
+<td align="center">
 
-<p align="center">
-I enjoy exploring digital creativity, technology, design, and new ways of learning. I am interested in creating visual content, experimenting with AI tools, building websites, and developing projects that allow me to express my ideas and creativity.
-</p>
+Hello! I'm **Francine Aira A. Sanchez**, a **4th Year Nursing Student at Ateneo de Davao University (AdDU)**.
 
-<br>
+Welcome to my Elective 4120 Digital Portfolio! This is where I collect and showcase my activities, creative outputs, projects, and learning experiences throughout the course.
 
-<h2 align="center">✧ SKILLS & TOOLS ✧</h2>
-
-<p align="center">
-Canva · Google Workspace · Base44 · AI Tools · GitHub · HTML · Markdown · Presentation Design · Visual Creativity
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<p align="center">
-🪞 ─────────── ♡ ─────────── 🪞
-</p>
-
-<br>
-
-<h2 align="center">🌷 FEATURED PROJECTS</h2>
-
-<p align="center">
-<i>A few things I've created and explored along the way.</i>
-</p>
-
-<h3 align="center">🎨 Digital Design</h3>
-
-<p align="center">
-Promotional posters, personal visual identity, color palettes, typography, and social media infographics.
-</p>
-
-<h3 align="center">🤖 AI Exploration</h3>
-
-<p align="center">
-AI-generated image comparisons and experiments with different prompts and AI tools.
-</p>
-
-<h3 align="center">🖥️ Website Creation</h3>
-
-<p align="center">
-A personal portfolio website developed using Base44.
-</p>
-
-<h3 align="center">📄 Resume Development</h3>
-
-<p align="center">
-An AI-assisted professional resume created and evaluated using different language models.
-</p>
-
-<br>
-
-<p align="center">
-🪞 ─────────── ♡ ─────────── 🪞
-</p>
-
-<br>
-
-<h2 align="center">🪷 MY ELECTIVE 4120 ACTIVITIES</h2>
+<h2 align="center">✧ THE COLLECTION ✧</h2>
 
 <p align="center">
 <i>Different activities, different experiences, one learning journey.</i>
+</p>
+
+<p align="center">
+🪞 ─────────── ♡ ─────────── 🪞
 </p>
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=85&section=header&text=01%20%E2%80%94%20PRELIMS&fontSize=27&fontColor=8F536B&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=110&section=header&text=01%20%E2%80%94%20PRELIMS&fontSize=32&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 *the beginning of the collection ⋆｡°✩*
 
@@ -94,19 +48,20 @@ An AI-assisted professional resume created and evaluated using different languag
 
 <br>
 
-<div align="center">
+<table width="100%">
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2001&fontSize=20&fontColor=8F536B&fontAlignY=50" width="65%" />
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2001&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 ### 🖇️ PRESENTATION DESIGN PRINCIPLES
 
 *Promotional Poster* 🎨
 
-</div>
-
 A promotional poster created by applying presentation design principles to create a clear, organized, and visually engaging output.
 
-<div align="center">
+<br>
 
 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%201%3A%20Presentation%20Design%20Principles">
 
@@ -116,17 +71,19 @@ A promotional poster created by applying presentation design principles to creat
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2002&fontSize=20&fontColor=8F536B&fontAlignY=50" width="65%" />
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2002&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 ### 🖌️ COLOR PALETTE & TYPOGRAPHY
 
 *Personal Visual Identity* 🪷
 
-</div>
-
 A personal visual identity created through a logo, color palette, typography, tagline, and resume header.
 
-<div align="center">
+<br>
 
 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%202%3A%20Color%20Palette%20and%20Typography">
 
@@ -136,17 +93,21 @@ A personal visual identity created through a logo, color palette, typography, ta
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2003&fontSize=20&fontColor=8F536B&fontAlignY=50" width="65%" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2003&fontSize=20&fontColor=8F536B&fontAlignY=50" width="50%" />
 
 ### 🦋 SOCIAL MEDIA INFOGRAPHICS & MINI PROJECT DOCUMENTATION
 
 *Visual Communication and Technology-Based Project* 💻
 
-</div>
-
 A social media infographic and a technology-based mini project proposal created through digital tools and visual communication.
 
-<div align="center">
+<br>
 
 <a href="https://github.com/francineaira/Elective---4120/tree/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation">
 
@@ -154,7 +115,11 @@ A social media infographic and a technology-based mini project proposal created 
 
 </a>
 
-</div>
+<br><br>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -166,25 +131,29 @@ A social media infographic and a technology-based mini project proposal created 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=85&section=header&text=02%20%E2%80%94%20MIDTERMS&fontSize=27&fontColor=8F536B&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=110&section=header&text=02%20%E2%80%94%20MIDTERMS&fontSize=32&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 *exploring tools and discovering new ways to work ☁️*
 
-<br><br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2004&fontSize=20&fontColor=8F536B&fontAlignY=50" width="65%" />
+<br>
 
-### ☁️ GOOGLE WORKSPACE
+<table width="100%">
+<tr>
+<td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2004&fontSize=20&fontColor=8F536B&fontAlignY=50" width="50%" />
+
+<h3>☁️ GOOGLE WORKSPACE</h3>
 
 **Google Workspace Reporting**
 
 *Exploring digital tools and collaboration* 🗂️
 
-</div>
-
 For the midterms, we explored the different tools available under Google Workspace. Through this activity, I explored how Google Drive can be used to store, organize, access, share, and collaborate on digital files.
 
-<div align="center">
+<br>
 
 <a href="https://drive.google.com/drive/folders/1mkIBBTplv87jwekY88pwAyOornMAo8vq?usp=sharing">
 
@@ -192,7 +161,11 @@ For the midterms, we explored the different tools available under Google Workspa
 
 </a>
 
-</div>
+<br><br>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -204,23 +177,28 @@ For the midterms, we explored the different tools available under Google Workspa
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=85&section=header&text=03%20%E2%80%94%20PREFINALS&fontSize=27&fontColor=8F536B&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=110&section=header&text=03%20%E2%80%94%20PREFINALS&fontSize=32&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 *exploring new possibilities, building skills, and presenting my work 🪻*
 
-<br><br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2005&fontSize=20&fontColor=8F536B&fontAlignY=50" width="65%" />
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2005&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 ### 🤖 AI TOOLS
 
 *AI-Generated Image Comparison* 🖼️
 
-</div>
-
 Two AI-generated images created using different prompts, with the second prompt providing more specific details. The activity explores how prompt specificity influences the generated images and compares the differences between the outputs.
 
-<div align="center">
+<br>
 
 <a href="PASTE_ACTIVITY_05_GITHUB_LINK_HERE">
 
@@ -230,17 +208,19 @@ Two AI-generated images created using different prompts, with the second prompt 
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2006&fontSize=20&fontColor=8F536B&fontAlignY=50" width="65%" />
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2006&fontSize=20&fontColor=8F536B&fontAlignY=50" width="100%" />
 
 ### 🖥️ MAKING A WEBSITE
 
 *Personal Portfolio Website* 🌐
 
-</div>
-
 A personal portfolio website created using Base44, showcasing personal information, skills, experiences, and creative elements through a one-page website design.
 
-<div align="center">
+<br>
 
 <a href="https://github.com/francineaira/Elective---4120/tree/01b5b5bcf8c2c4739356c8187f6069ffd77c93d8/Activity%206%3A%20Personal%20Portfolio">
 
@@ -250,17 +230,21 @@ A personal portfolio website created using Base44, showcasing personal informati
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2007&fontSize=20&fontColor=8F536B&fontAlignY=50" width="65%" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=65&section=header&text=ACTIVITY%2007&fontSize=20&fontColor=8F536B&fontAlignY=50" width="50%" />
 
 ### 📄 RESUME GENERATING
 
 *AI-Assisted Professional Resume* 📝
 
-</div>
-
 A one-page professional resume generated using at least two Large Language Model (LLM) tools, comparing and analyzing their outputs to explore differences in content and presentation.
 
-<div align="center">
+<br>
 
 <a href="https://github.com/francineaira/Elective---4120/tree/01b5b5bcf8c2c4739356c8187f6069ffd77c93d8/Activity%207%3A%20Resume%20Generating">
 
@@ -268,7 +252,11 @@ A one-page professional resume generated using at least two Large Language Model
 
 </a>
 
-</div>
+<br><br>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -278,45 +266,35 @@ A one-page professional resume generated using at least two Large Language Model
 
 <br>
 
-<h2 align="center">🪷 MY DIGITAL PORTFOLIO</h2>
+<h2 align="center">🧸 LITTLE NOTES ALONG THE WAY</h2>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+Every activity is a small reminder of something learned, something created, or something discovered along the way. 🌼
+
+This collection represents not just the outputs I have completed, but also the skills and experiences I have gained throughout Elective 4120.
+
+*one activity at a time, one page at a time.* ♡
+
+˚₊‧꒰ა learning, growing, and creating ໒꒱ ‧₊˚
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-A collection of my academic activities, creative outputs, projects, and learning experiences from <b>Elective 4120</b>.
+🌙 ─────────────── ♡ ─────────────── 🪻
 </p>
 
 <div align="center">
 
-<a href="https://github.com/francineaira/Elective---4120">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=85&section=header&text=EXPLORE%20MY%20DIGITAL%20PORTFOLIO%20%E2%86%97&fontSize=19&fontColor=8F536B&fontAlignY=50" width="85%" />
-
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=200&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=30&fontColor=8F536B&fontAlignY=30&desc=Thank%20you%20for%20visiting%20my%20little%20corner!&descSize=17&descAlignY=65&descColor=8F536B" width="100%" />
 
 <br>
-
-<h2 align="center">🧸 A LITTLE MORE ABOUT ME</h2>
-
-<p align="center">
-
-*I love exploring new ideas, experimenting with creative tools, and turning inspiration into something of my own.*
-
-<br>
-
-*Always learning, creating, and finding new ways to express myself.* ♡
-
-</p>
-
-<br>
-
-<div align="center">
-
-୨୧ ──────────────── ✧ ──────────────── ୨୧
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=115&section=footer&text=Creating%20My%20Own%20Little%20Space%20%E2%99%A1&fontSize=25&fontColor=8F536B&fontAlignY=45" width="90%" />
-
-*thank you for visiting my little corner!* ♡
 
 <sub>Francine Aira A. Sanchez • 2026</sub>
 
