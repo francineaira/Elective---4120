@@ -38,7 +38,11 @@ The mini project documentation presents a technology-based project proposal thro
 
 <div align="center">
 
-**[📄 VIEW MINI PROJECT DOCUMENTATION →](./DOCUMENTATION_SANCHEZ.pdf)**
+<a href="./DOCUMENTATION_SANCHEZ.pdf">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=85&section=header&text=VIEW%20MINI%20PROJECT%20DOCUMENTATION%20%E2%86%97&fontSize=19&fontColor=8F536B&fontAlignY=50" width="85%" />
+
+</a>
 
 </div>
 
