@@ -6,8 +6,6 @@
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
 
-*ੈ✩‧₊˚ creating, communicating, and exploring digital possibilities ˚₊‧✩ੈ*
-
 </div>
 
 <br>
@@ -41,8 +39,6 @@ The mini project documentation presents a technology-based project proposal thro
 <div align="center">
 
 **[📄 VIEW MINI PROJECT DOCUMENTATION →](./DOCUMENTATION_SANCHEZ.pdf)**
-
-<sub>DOCUMENTATION_SANCHEZ.pdf</sub>
 
 </div>
 
