@@ -6,8 +6,6 @@
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
 
-*ੈ✩‧₊˚ designing, building, and bringing ideas to life ˚₊‧✩ੈ*
-
 </div>
 
 <br>
