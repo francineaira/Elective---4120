@@ -201,7 +201,7 @@ Two AI-generated images created using different prompts, with the second prompt 
 
 <br>
 
-<a href="#">
+<a href="PASTE_ACTIVITY_05_GITHUB_LINK_HERE">
 
 **VIEW ACTIVITY →**
 
@@ -223,7 +223,7 @@ A personal portfolio website created using Base44, showcasing personal informati
 
 <br>
 
-<a href="#">
+<a href="https://github.com/francineaira/Elective---4120/tree/01b5b5bcf8c2c4739356c8187f6069ffd77c93d8/Activity%206%3A%20Personal%20Portfolio">
 
 **VIEW ACTIVITY →**
 
@@ -247,7 +247,7 @@ A one-page professional resume generated using at least two Large Language Model
 
 <br>
 
-<a href="#">
+<a href="https://github.com/francineaira/Elective---4120/tree/01b5b5bcf8c2c4739356c8187f6069ffd77c93d8/Activity%207%3A%20Resume%20Generating">
 
 **VIEW ACTIVITY →**
 
@@ -293,6 +293,10 @@ This collection represents not just the outputs I have completed, but also the s
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=200&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=30&fontColor=8F536B&fontAlignY=25&desc=Thank%20you%20for%20visiting%20my%20little%20corner!%0A%0A%E1%B6%A0%CA%B3%E1%B5%83%E2%81%BF%E1%B6%9C%E2%81%B1%E2%81%BF%E1%B5%89%20%E1%B4%AC%E2%81%B1%CA%B3%E1%B5%83%20%E1%B4%AC.%20%CB%A2%E1%B5%83%E2%81%BF%E1%B6%9C%E2%81%B1%E1%B5%89%E1%B6%BB%20%E2%80%A2%20%C2%B2%E2%81%B0%C2%B2%E2%81%B6&descSize=15&descAlignY=58&descColor=8F536B" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=200&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=30&fontColor=8F536B&fontAlignY=30&desc=Thank%20you%20for%20visiting%20my%20little%20corner!&descSize=17&descAlignY=65&descColor=8F536B" width="100%" />
+
+<br>
+
+<sub>Francine Aira A. Sanchez • 2026</sub>
 
 </div>
