@@ -26,7 +26,7 @@ The design uses a soft and minimalist aesthetic, incorporating warm neutral tone
 
 <div align="center">
 
-### ♡ Explore My Personal Portfolio ♡
+### Explore My Personal Portfolio ♡
 
 <a href="https://francine-scraps-life.base44.app">
 
@@ -73,8 +73,6 @@ The design uses a soft and minimalist aesthetic, incorporating warm neutral tone
 **VIEW ACTIVITY DOCUMENTATION →**
 
 </a>
-
-<sub>SANCHEZ_ACTIVITY 6.pdf</sub>
 
 </div>
 
