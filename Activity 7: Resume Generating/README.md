@@ -56,8 +56,6 @@ Through this process, the activity demonstrates how AI tools can assist in prepa
 
 </a>
 
-<sub>SANCHEZ_ACTIVITY 7.pdf</sub>
-
 </div>
 
 <br>
