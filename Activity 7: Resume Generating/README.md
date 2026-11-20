@@ -60,6 +60,14 @@ Through this process, the activity demonstrates how AI tools can assist in prepa
 
 <br>
 
+## 🪷 What Have I Learned?
+
+Through this activity, I learned how Large Language Model tools can assist in creating and improving professional documents. I gained a better understanding of how different AI tools generate and organize resume content, and how their outputs may vary in wording, structure, and presentation. I also learned that providing clear information and instructions is important in obtaining relevant and useful results.
+
+One challenge was evaluating the differences between the outputs and determining which suggestions were appropriate for a professional resume. I addressed this by comparing the generated content and reviewing each detail based on its accuracy, relevance, and clarity. I can apply these skills in future tasks by using AI tools more effectively, evaluating their outputs critically, and ensuring that any AI-assisted document accurately represents the information being presented.
+
+<br>
+
 ## 🪷 Reflection
 
 This activity provided an opportunity to explore how artificial intelligence can be used in preparing professional documents. By generating and comparing resumes using different AI tools, I gained a better understanding of how each tool approaches content organization, wording, and presentation.
