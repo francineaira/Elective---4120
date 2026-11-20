@@ -20,9 +20,7 @@ The output is a promotional poster designed using presentation design principles
 
 <div align="center">
 
-<!-- Replace the image path below with the actual poster filename -->
-
-![Promotional Poster](INSERT-POSTER-FILENAME-HERE)
+<img src="./ACTIVITY%201%20-%20GE%204120_SANCHEZ.png" alt="Activity 01 Promotional Poster" width="80%" />
 
 </div>
 
@@ -38,19 +36,6 @@ The output is a promotional poster designed using presentation design principles
 ## 🪷 Reflection
 
 This activity provided an opportunity to apply presentation design principles in creating a promotional poster. It emphasized the importance of organizing visual elements, choosing appropriate design components, and presenting information in a clear and engaging manner.
-
-## ♡ Course Information
-
-| Detail | Information |
-|---|---|
-| Course | Elective 4120 |
-| Activity | Activity 01 |
-| Topic | Presentation Design Principles |
-| Output | Promotional Poster |
-| Student | Francine Aira A. Sanchez |
-| Institution | Ateneo de Davao University |
-
-<div align="center">
 
 *୨୧ ──────────────── ✧ ──────────────── ୨୧*
 
