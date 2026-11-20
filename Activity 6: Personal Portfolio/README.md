@@ -24,8 +24,6 @@ The output is a one-page personal portfolio website created using **Base44**. It
 
 **[📄 VIEW ACTIVITY DOCUMENTATION →](./SANCHEZ_ACTIVITY%206.pdf)**
 
-<sub>SANCHEZ_ACTIVITY 6.pdf</sub>
-
 </div>
 
 ## ✧ Skills and Concepts Applied
@@ -41,11 +39,3 @@ The output is a one-page personal portfolio website created using **Base44**. It
 This activity provided an opportunity to explore website creation and the use of digital platforms in developing a personal online presence. Through creating a personal portfolio website, I gained a better understanding of how design, content organization, and technology work together to present information effectively.
 
 It also allowed me to explore how a website can serve as a platform for showcasing personal skills, experiences, and creative work in an organized and accessible manner.
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE7&height=140&section=footer&text=The%20Collection%20Continues%20%E2%99%A1&fontSize=27&fontColor=8F536B&fontAlignY=45" width="100%" />
-
-</div>
