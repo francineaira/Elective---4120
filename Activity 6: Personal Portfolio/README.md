@@ -72,8 +72,6 @@ The design uses a soft and minimalist aesthetic, incorporating warm neutral tone
 
 </a>
 
-<sub>Activity 06 Documentation (PDF)</sub>
-
 </div>
 
 <br>
