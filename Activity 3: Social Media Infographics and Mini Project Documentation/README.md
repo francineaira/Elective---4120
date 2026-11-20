@@ -20,7 +20,7 @@ The social media infographic presents information through a combination of visua
 
 <div align="center">
 
-<img src="./Infographic_SANCHEZ.png" alt="Activity 03 Social Media Infographic" width="85%" />
+<img src="https://raw.githubusercontent.com/francineaira/Elective---4120/main/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation/Infographic_SANCHEZ.png" alt="Activity 03 Social Media Infographic" width="85%" />
 
 <sub>Social Media Infographic</sub>
 
