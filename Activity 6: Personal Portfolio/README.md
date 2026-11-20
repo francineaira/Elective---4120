@@ -76,6 +76,14 @@ The design uses a soft and minimalist aesthetic, incorporating warm neutral tone
 
 <br>
 
+## 🪷 What Have I Learned?
+
+Through this activity, I learned how website-building platforms can be used to create a personal online presence without requiring extensive coding knowledge. I gained a better understanding of website layout, content organization, visual design, and personal branding. I also learned how photographs, written content, and design elements can work together to create a website that communicates a personal story.
+
+One challenge was organizing different experiences and personal information into a cohesive website while maintaining a consistent visual style. I addressed this by dividing the content into sections and carefully considering the layout and design of each part. I can apply these skills in future digital projects by developing more organized and visually engaging websites, exploring additional website-building tools, and continuously improving my understanding of web design.
+
+<br>
+
 ## 🪷 Reflection
 
 This activity provided an opportunity to explore website creation and the use of digital platforms in developing a personal online presence. Through creating my portfolio website, I learned how design, content organization, and technology work together to present information effectively.
