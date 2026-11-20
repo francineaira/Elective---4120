@@ -16,7 +16,21 @@ This activity focuses on developing a personal visual identity through the thoug
 
 **Personal Visual Identity**
 
-The output showcases a personal visual identity developed through different design components, including a logo, color palette, typography, tagline, and resume header. These elements work together to establish a cohesive and consistent visual presentation.
+The output presents a personal visual identity developed through different design components, including a logo, color palette, typography, tagline, and resume header. These elements work together to establish a cohesive and consistent visual presentation.
+
+<div align="center">
+
+<a href="./ACTIVITY%202_SANCHEZ.pdf">
+
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY%20OUTPUT-F8DCE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=8F536B&labelColor=F8DCE7" alt="View Activity 02 PDF" />
+
+</a>
+
+<br>
+
+<sub>ACTIVITY 2_SANCHEZ.pdf</sub>
+
+</div>
 
 ## ✧ Components of the Visual Identity
 
