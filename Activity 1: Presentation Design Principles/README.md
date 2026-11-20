@@ -33,6 +33,12 @@ The output is a promotional poster designed using presentation design principles
 - **Consistency** – Maintaining a cohesive appearance through the use of colors, fonts, and design elements.
 - **Simplicity** – Avoiding unnecessary elements to keep the presentation clear and focused.
 
+## 🪷 What Have I Learned?
+
+Through this activity, I learned how presentation design principles contribute to creating an organized and visually effective promotional poster. I gained a better understanding of visual hierarchy, contrast, alignment, proximity, consistency, and simplicity, particularly in guiding the viewer's attention and improving the presentation of information.
+
+One challenge I encountered was arranging the different visual elements without making the poster appear overcrowded. I addressed this by organizing related information, adjusting the placement of elements, and maintaining consistency in the design. In the future, I can apply these principles when creating presentations, infographics, and other digital materials while continuing to improve my creativity, layout, and visual communication skills.
+
 ## 🪷 Reflection
 
 This activity provided an opportunity to apply presentation design principles in creating a promotional poster. It emphasized the importance of organizing visual elements, choosing appropriate design components, and presenting information in a clear and engaging manner.
