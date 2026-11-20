@@ -44,6 +44,14 @@ The output presents a personal visual identity developed through different desig
 
 <br>
 
+## 🪷 What Have I Learned?
+
+Through this activity, I learned how color palettes and typography contribute to creating a recognizable and consistent visual identity. I gained a better understanding of how colors can establish a particular mood and how font choices can influence the overall appearance, readability, and personality of a design.
+
+One challenge was selecting colors and typefaces that complemented one another while reflecting the intended personal aesthetic. This required considering how each design component would work together rather than treating them as separate elements. I can apply these skills in future creative projects, digital materials, and professional documents to create more cohesive and visually effective designs.
+
+<br>
+
 ## 🪷 Reflection
 
 This activity provided an opportunity to explore the role of color and typography in developing a personal visual identity. It emphasized the importance of consistency, thoughtful design choices, and the relationship between visual elements in creating a cohesive personal brand.
@@ -55,3 +63,5 @@ Through this activity, I gained a better understanding of how design can communi
 <div align="center">
 
 ୨୧ ──────────────── ✧ ──────────────── ୨୧
+
+</div>
